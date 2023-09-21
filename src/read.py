@@ -16,7 +16,7 @@ for fasta in fasta_sequences:
     print(fasta.features)
     print(fasta.dbxrefs)
     print(fasta.annotations)
-    break  
+    break
 
 # print(fasta_sequences.__dir__())
 
