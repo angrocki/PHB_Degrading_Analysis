@@ -1,0 +1,2 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_41924_2_181	CDS	null	polyhydroxybutyrate depolymerase	2	181	+	

@@ -1,0 +1,3 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_21947_1_327	CDS	null	HSP20 family molecular chaperone IbpA	1	327	-	
+3300049256 assembled Ga0508132_21947_427_540	CDS	null	poly(3-hydroxybutyrate) depolymerase	427	540	-	

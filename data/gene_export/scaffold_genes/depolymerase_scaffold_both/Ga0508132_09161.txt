@@ -1,0 +1,3 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_09161_2_274	CDS	null	polyhydroxybutyrate depolymerase	2	274	-	
+3300049256 assembled Ga0508132_09161_398_865	CDS	null	uncharacterized radical SAM superfamily Fe-S cluster-containing enzyme	398	865	+	

@@ -1,0 +1,359 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00007_103313_105295	CDS	null	diguanylate cyclase (GGDEF)-like protein/PAS domain S-box-containing protein	103313	105295	-	
+3300049256 assembled Ga0508132_00007_10438_11559	CDS	null	electron transfer flavoprotein alpha subunit	10438	11559	+	
+3300049256 assembled Ga0508132_00007_105521_105634	CDS	null	hypothetical protein	105521	105634	-	
+3300049256 assembled Ga0508132_00007_105758_106627	CDS	null	methylenetetrahydrofolate reductase (NADPH)	105758	106627	+	
+3300049256 assembled Ga0508132_00007_106652_106750	CDS	null	hypothetical protein	106652	106750	-	
+3300049256 assembled Ga0508132_00007_106763_106936	CDS	null	hypothetical protein	106763	106936	-	
+3300049256 assembled Ga0508132_00007_106954_107082	CDS	null	hypothetical protein	106954	107082	-	
+3300049256 assembled Ga0508132_00007_107201_107452	CDS	null	hypothetical protein	107201	107452	-	
+3300049256 assembled Ga0508132_00007_107550_108434	CDS	null	multimeric flavodoxin WrbA	107550	108434	+	
+3300049256 assembled Ga0508132_00007_108450_109601	CDS	null	exonuclease SbcD	108450	109601	+	
+3300049256 assembled Ga0508132_00007_109598_112669	CDS	null	exonuclease SbcC	109598	112669	+	
+3300049256 assembled Ga0508132_00007_112830_113192	CDS	null	hypothetical protein	112830	113192	+	
+3300049256 assembled Ga0508132_00007_113259_113414	CDS	null	hypothetical protein	113259	113414	+	
+3300049256 assembled Ga0508132_00007_113525_114664	CDS	null	two-component system sensor histidine kinase AtoS	113525	114664	+	
+3300049256 assembled Ga0508132_00007_114833_116017	CDS	null	hypothetical protein	114833	116017	+	
+3300049256 assembled Ga0508132_00007_11600_12016	CDS	null	3-hydroxybutyryl-CoA dehydratase	11600	12016	+	
+3300049256 assembled Ga0508132_00007_116179_118830	CDS	null	DNA polymerase-1	116179	118830	+	
+3300049256 assembled Ga0508132_00007_118843_119667	CDS	null	formamidopyrimidine-DNA glycosylase	118843	119667	+	
+3300049256 assembled Ga0508132_00007_119677_120267	CDS	null	dephospho-CoA kinase	119677	120267	+	
+3300049256 assembled Ga0508132_00007_120327_120917	CDS	null	soluble lytic murein transglycosylase	120327	120917	+	
+3300049256 assembled Ga0508132_00007_12044_12931	CDS	null	enoyl-CoA hydratase	12044	12931	+	
+3300049256 assembled Ga0508132_00007_120966_122564	CDS	null	peptide/nickel transport system substrate-binding protein	120966	122564	+	
+3300049256 assembled Ga0508132_00007_122637_122722	tRNA	null	tRNA_Leu_CAG	122637	122722	+	
+3300049256 assembled Ga0508132_00007_122749_122834	tRNA	null	tRNA_Leu_GAG	122749	122834	+	
+3300049256 assembled Ga0508132_00007_122914_124113	CDS	null	integrase	122914	124113	-	
+3300049256 assembled Ga0508132_00007_124297_124455	CDS	null	hypothetical protein	124297	124455	+	
+3300049256 assembled Ga0508132_00007_124411_124779	CDS	null	transcriptional regulator with XRE-family HTH domain	124411	124779	-	
+3300049256 assembled Ga0508132_00007_125042_125230	CDS	null	hypothetical protein	125042	125230	+	
+3300049256 assembled Ga0508132_00007_125418_125762	CDS	null	predicted nucleic-acid-binding Zn-ribbon protein	125418	125762	+	
+3300049256 assembled Ga0508132_00007_125764_127803	CDS	null	hypothetical protein	125764	127803	+	
+3300049256 assembled Ga0508132_00007_127818_128210	CDS	null	hypothetical protein	127818	128210	+	
+3300049256 assembled Ga0508132_00007_128249_128563	CDS	null	hypothetical protein	128249	128563	+	
+3300049256 assembled Ga0508132_00007_128585_129166	CDS	null	hypothetical protein	128585	129166	+	
+3300049256 assembled Ga0508132_00007_129199_129381	CDS	null	C4-type Zn-finger protein	129199	129381	+	
+3300049256 assembled Ga0508132_00007_129381_129686	CDS	null	hypothetical protein	129381	129686	+	
+3300049256 assembled Ga0508132_00007_129676_129837	CDS	null	hypothetical protein	129676	129837	+	
+3300049256 assembled Ga0508132_00007_129830_130006	CDS	null	Tfp pilus assembly PilM family ATPase	129830	130006	+	
+3300049256 assembled Ga0508132_00007_129996_130166	CDS	null	hypothetical protein	129996	130166	+	
+3300049256 assembled Ga0508132_00007_130167_130580	CDS	null	hypothetical protein	130167	130580	+	
+3300049256 assembled Ga0508132_00007_13023_13280	CDS	null	hypothetical protein	13023	13280	+	
+3300049256 assembled Ga0508132_00007_130580_130738	CDS	null	hypothetical protein	130580	130738	+	
+3300049256 assembled Ga0508132_00007_130878_131147	CDS	null	conjugal transfer/entry exclusion protein	130878	131147	+	
+3300049256 assembled Ga0508132_00007_131194_131655	CDS	null	hypothetical protein	131194	131655	+	
+3300049256 assembled Ga0508132_00007_131969_132298	CDS	null	hypothetical protein	131969	132298	+	
+3300049256 assembled Ga0508132_00007_132391_132603	CDS	null	formate dehydrogenase maturation protein FdhE	132391	132603	+	
+3300049256 assembled Ga0508132_00007_132524_132613	CDS	null	hypothetical protein	132524	132613	+	
+3300049256 assembled Ga0508132_00007_132669_132998	CDS	null	3D (Asp-Asp-Asp) domain-containing protein	132669	132998	+	
+3300049256 assembled Ga0508132_00007_133000_133311	CDS	null	hypothetical protein	133000	133311	+	
+3300049256 assembled Ga0508132_00007_133314_133634	CDS	null	hypothetical protein	133314	133634	+	
+3300049256 assembled Ga0508132_00007_133627_133947	CDS	null	hypothetical protein	133627	133947	+	
+3300049256 assembled Ga0508132_00007_13385_14170	CDS	null	enoyl-CoA hydratase	13385	14170	+	
+3300049256 assembled Ga0508132_00007_134184_134402	CDS	null	hypothetical protein	134184	134402	+	
+3300049256 assembled Ga0508132_00007_134417_134746	CDS	null	hypothetical protein	134417	134746	+	
+3300049256 assembled Ga0508132_00007_134774_134902	CDS	null	hypothetical protein	134774	134902	+	
+3300049256 assembled Ga0508132_00007_134909_135154	CDS	null	hypothetical protein	134909	135154	+	
+3300049256 assembled Ga0508132_00007_135223_136101	CDS	null	DNA primase	135223	136101	+	
+3300049256 assembled Ga0508132_00007_136102_137247	CDS	null	replicative DNA helicase	136102	137247	+	
+3300049256 assembled Ga0508132_00007_137228_137527	CDS	null	hypothetical protein	137228	137527	+	
+3300049256 assembled Ga0508132_00007_137622_137837	CDS	null	hypothetical protein	137622	137837	+	
+3300049256 assembled Ga0508132_00007_137897_138073	CDS	null	hypothetical protein	137897	138073	+	
+3300049256 assembled Ga0508132_00007_138074_138271	CDS	null	hypothetical protein	138074	138271	+	
+3300049256 assembled Ga0508132_00007_138280_138528	CDS	null	hypothetical protein	138280	138528	+	
+3300049256 assembled Ga0508132_00007_138528_139094	CDS	null	hypothetical protein	138528	139094	+	
+3300049256 assembled Ga0508132_00007_139095_140198	CDS	null	radical SAM protein with 4Fe4S-binding SPASM domain	139095	140198	+	
+3300049256 assembled Ga0508132_00007_140179_140613	CDS	null	hypothetical protein	140179	140613	+	
+3300049256 assembled Ga0508132_00007_140623_140961	CDS	null	hypothetical protein	140623	140961	+	
+3300049256 assembled Ga0508132_00007_140961_141347	CDS	null	hypothetical protein	140961	141347	+	
+3300049256 assembled Ga0508132_00007_141347_141691	CDS	null	hypothetical protein	141347	141691	+	
+3300049256 assembled Ga0508132_00007_141695_142345	CDS	null	hypothetical protein	141695	142345	+	
+3300049256 assembled Ga0508132_00007_14210_15607	CDS	null	H+/gluconate symporter-like permease	14210	15607	-	
+3300049256 assembled Ga0508132_00007_142613_143206	CDS	null	hypothetical protein	142613	143206	+	
+3300049256 assembled Ga0508132_00007_143342_143923	CDS	null	hypothetical protein	143342	143923	+	
+3300049256 assembled Ga0508132_00007_143916_144524	CDS	null	dephospho-CoA kinase	143916	144524	+	
+3300049256 assembled Ga0508132_00007_144514_145056	CDS	null	hypothetical protein	144514	145056	+	
+3300049256 assembled Ga0508132_00007_145056_145253	CDS	null	hypothetical protein	145056	145253	+	
+3300049256 assembled Ga0508132_00007_145243_145416	CDS	null	hypothetical protein	145243	145416	+	
+3300049256 assembled Ga0508132_00007_145416_145634	CDS	null	hypothetical protein	145416	145634	+	
+3300049256 assembled Ga0508132_00007_145995_146294	CDS	null	hypothetical protein	145995	146294	+	
+3300049256 assembled Ga0508132_00007_146321_146707	CDS	null	hypothetical protein	146321	146707	+	
+3300049256 assembled Ga0508132_00007_146673_147155	CDS	null	hypothetical protein	146673	147155	+	
+3300049256 assembled Ga0508132_00007_147155_147397	CDS	null	hypothetical protein	147155	147397	+	
+3300049256 assembled Ga0508132_00007_147497_148090	CDS	null	site-specific DNA-cytosine methylase	147497	148090	+	
+3300049256 assembled Ga0508132_00007_148120_148311	CDS	null	hypothetical protein	148120	148311	+	
+3300049256 assembled Ga0508132_00007_148302_148694	CDS	null	hypothetical protein	148302	148694	+	
+3300049256 assembled Ga0508132_00007_148721_148858	CDS	null	hypothetical protein	148721	148858	+	
+3300049256 assembled Ga0508132_00007_148858_149106	CDS	null	hypothetical protein	148858	149106	+	
+3300049256 assembled Ga0508132_00007_149090_149257	CDS	null	hypothetical protein	149090	149257	+	
+3300049256 assembled Ga0508132_00007_149254_149562	CDS	null	archaellum component FlaC	149254	149562	+	
+3300049256 assembled Ga0508132_00007_149549_151789	CDS	null	ribonucleoside-diphosphate reductase alpha chain	149549	151789	+	
+3300049256 assembled Ga0508132_00007_151842_152054	CDS	null	DNA-directed RNA polymerase subunit RPC12/RpoP	151842	152054	+	
+3300049256 assembled Ga0508132_00007_152067_152258	CDS	null	hypothetical protein	152067	152258	+	
+3300049256 assembled Ga0508132_00007_152255_152560	CDS	null	hypothetical protein	152255	152560	+	
+3300049256 assembled Ga0508132_00007_152560_152871	CDS	null	uncharacterized protein (DUF3084 family)	152560	152871	+	
+3300049256 assembled Ga0508132_00007_152846_153142	CDS	null	hypothetical protein	152846	153142	+	
+3300049256 assembled Ga0508132_00007_153158_153787	CDS	null	thymidylate synthase (FAD)	153158	153787	+	
+3300049256 assembled Ga0508132_00007_153787_153939	CDS	null	hypothetical protein	153787	153939	+	
+3300049256 assembled Ga0508132_00007_153942_154292	CDS	null	hypothetical protein	153942	154292	+	
+3300049256 assembled Ga0508132_00007_154292_154894	CDS	null	dUTP pyrophosphatase	154292	154894	+	
+3300049256 assembled Ga0508132_00007_154875_155072	CDS	null	Pyruvate/2-oxoacid:ferredoxin oxidoreductase delta subunit	154875	155072	+	
+3300049256 assembled Ga0508132_00007_155029_155238	CDS	null	hypothetical protein	155029	155238	+	
+3300049256 assembled Ga0508132_00007_155249_155773	CDS	null	hypothetical protein	155249	155773	+	
+3300049256 assembled Ga0508132_00007_155785_156177	CDS	null	hypothetical protein	155785	156177	+	
+3300049256 assembled Ga0508132_00007_156187_156522	CDS	null	hypothetical protein	156187	156522	+	
+3300049256 assembled Ga0508132_00007_156561_156782	CDS	null	hypothetical protein	156561	156782	+	
+3300049256 assembled Ga0508132_00007_156758_157006	CDS	null	DNA-directed RNA polymerase subunit RPC12/RpoP	156758	157006	+	
+3300049256 assembled Ga0508132_00007_157091_157708	CDS	null	DNA-binding CsgD family transcriptional regulator/ribosomal protein L32	157091	157708	+	
+3300049256 assembled Ga0508132_00007_157713_157838	CDS	null	hypothetical protein	157713	157838	+	
+3300049256 assembled Ga0508132_00007_157819_158094	CDS	null	hypothetical protein	157819	158094	+	
+3300049256 assembled Ga0508132_00007_158243_158371	CDS	null	hypothetical protein	158243	158371	+	
+3300049256 assembled Ga0508132_00007_158419_158583	CDS	null	hypothetical protein	158419	158583	-	
+3300049256 assembled Ga0508132_00007_158628_159230	CDS	null	thiol-disulfide isomerase/thioredoxin	158628	159230	-	
+3300049256 assembled Ga0508132_00007_159279_159464	CDS	null	tartrate dehydratase alpha subunit/fumarate hydratase class I-like protein	159279	159464	-	
+3300049256 assembled Ga0508132_00007_159461_159631	CDS	null	hypothetical protein	159461	159631	-	
+3300049256 assembled Ga0508132_00007_159870_160127	CDS	null	membrane protease subunit (stomatin/prohibitin family)	159870	160127	-	
+3300049256 assembled Ga0508132_00007_160205_160321	CDS	null	DNA-directed RNA polymerase subunit RPC12/RpoP	160205	160321	-	
+3300049256 assembled Ga0508132_00007_160454_161527	CDS	null	hypothetical protein	160454	161527	-	
+3300049256 assembled Ga0508132_00007_16119_16859	CDS	null	3-oxoacyl-[acyl-carrier protein] reductase	16119	16859	+	
+3300049256 assembled Ga0508132_00007_161641_161820	CDS	null	hypothetical protein	161641	161820	-	
+3300049256 assembled Ga0508132_00007_161908_162069	CDS	null	hypothetical protein	161908	162069	-	
+3300049256 assembled Ga0508132_00007_162144_162599	CDS	null	hypothetical protein	162144	162599	-	
+3300049256 assembled Ga0508132_00007_162615_162989	CDS	null	hypothetical protein	162615	162989	-	
+3300049256 assembled Ga0508132_00007_163005_163340	CDS	null	hypothetical protein	163005	163340	-	
+3300049256 assembled Ga0508132_00007_163763_164020	CDS	null	hypothetical protein	163763	164020	-	
+3300049256 assembled Ga0508132_00007_164103_164342	CDS	null	3-oxoacyl-(acyl-carrier-protein) synthase	164103	164342	-	
+3300049256 assembled Ga0508132_00007_164434_164712	CDS	null	hypothetical protein	164434	164712	-	
+3300049256 assembled Ga0508132_00007_165400_165564	CDS	null	hypothetical protein	165400	165564	-	
+3300049256 assembled Ga0508132_00007_165670_166011	CDS	null	protein subunit release factor B	165670	166011	+	
+3300049256 assembled Ga0508132_00007_166004_166639	CDS	null	hypothetical protein	166004	166639	+	
+3300049256 assembled Ga0508132_00007_166676_167257	CDS	null	hypothetical protein	166676	167257	+	
+3300049256 assembled Ga0508132_00007_167259_167354	CDS	null	hypothetical protein	167259	167354	+	
+3300049256 assembled Ga0508132_00007_167367_167567	CDS	null	hypothetical protein	167367	167567	+	
+3300049256 assembled Ga0508132_00007_167589_168269	CDS	null	phosphate starvation-inducible protein PhoH	167589	168269	+	
+3300049256 assembled Ga0508132_00007_168278_168460	CDS	null	hypothetical protein	168278	168460	+	
+3300049256 assembled Ga0508132_00007_168457_169020	CDS	null	hypothetical protein	168457	169020	+	
+3300049256 assembled Ga0508132_00007_169023_169157	CDS	null	hypothetical protein	169023	169157	+	
+3300049256 assembled Ga0508132_00007_169178_169969	CDS	null	DNA-directed RNA polymerase subunit RPC12/RpoP	169178	169969	+	
+3300049256 assembled Ga0508132_00007_16966_17520	CDS	null	nicotinamidase-related amidase	16966	17520	+	
+3300049256 assembled Ga0508132_00007_169914_170168	CDS	null	hypothetical protein	169914	170168	+	
+3300049256 assembled Ga0508132_00007_170165_171814	CDS	null	predicted phage terminase large subunit-like protein	170165	171814	+	
+3300049256 assembled Ga0508132_00007_171827_173155	CDS	null	hypothetical protein	171827	173155	+	
+3300049256 assembled Ga0508132_00007_173190_174188	CDS	null	hypothetical protein	173190	174188	+	
+3300049256 assembled Ga0508132_00007_174261_175334	CDS	null	hypothetical protein	174261	175334	+	
+3300049256 assembled Ga0508132_00007_175379_175576	CDS	null	hypothetical protein	175379	175576	+	
+3300049256 assembled Ga0508132_00007_175587_176159	CDS	null	hypothetical protein	175587	176159	+	
+3300049256 assembled Ga0508132_00007_176156_176725	CDS	null	hypothetical protein	176156	176725	+	
+3300049256 assembled Ga0508132_00007_17661_19745	CDS	null	PAS domain S-box-containing protein	17661	19745	+	
+3300049256 assembled Ga0508132_00007_176722_177273	CDS	null	hypothetical protein	176722	177273	+	
+3300049256 assembled Ga0508132_00007_177283_177678	CDS	null	hypothetical protein	177283	177678	+	
+3300049256 assembled Ga0508132_00007_177731_178489	CDS	null	hypothetical protein	177731	178489	+	
+3300049256 assembled Ga0508132_00007_1779_3506	CDS	null	PAS domain S-box-containing protein	1779	3506	-	
+3300049256 assembled Ga0508132_00007_178639_179640	CDS	null	uncharacterized protein YlaI	178639	179640	+	
+3300049256 assembled Ga0508132_00007_179707_180102	CDS	null	hypothetical protein	179707	180102	+	
+3300049256 assembled Ga0508132_00007_180102_180296	CDS	null	hypothetical protein	180102	180296	+	
+3300049256 assembled Ga0508132_00007_180324_184349	CDS	null	TP901 family phage tail tape measure protein	180324	184349	+	
+3300049256 assembled Ga0508132_00007_184352_184774	CDS	null	cell wall-associated NlpC family hydrolase	184352	184774	+	
+3300049256 assembled Ga0508132_00007_184784_185314	CDS	null	hypothetical protein	184784	185314	-	
+3300049256 assembled Ga0508132_00007_185365_185817	CDS	null	hypothetical protein	185365	185817	+	
+3300049256 assembled Ga0508132_00007_185824_186186	CDS	null	phage-related protein	185824	186186	+	
+3300049256 assembled Ga0508132_00007_186183_187004	CDS	null	hypothetical protein	186183	187004	+	
+3300049256 assembled Ga0508132_00007_187018_190167	CDS	null	hypothetical protein	187018	190167	+	
+3300049256 assembled Ga0508132_00007_190209_190829	CDS	null	hypothetical protein	190209	190829	+	
+3300049256 assembled Ga0508132_00007_190881_191459	CDS	null	predicted SAM-dependent methyltransferase	190881	191459	-	
+3300049256 assembled Ga0508132_00007_191547_192695	CDS	null	hypothetical protein	191547	192695	+	
+3300049256 assembled Ga0508132_00007_192706_193005	CDS	null	trans-aconitate methyltransferase	192706	193005	+	
+3300049256 assembled Ga0508132_00007_193033_193254	CDS	null	hypothetical protein	193033	193254	+	
+3300049256 assembled Ga0508132_00007_193261_193566	CDS	null	uncharacterized protein with PhoU and TrkA domain	193261	193566	+	
+3300049256 assembled Ga0508132_00007_193582_193995	CDS	null	hypothetical protein	193582	193995	+	
+3300049256 assembled Ga0508132_00007_194087_194629	CDS	null	hypothetical protein	194087	194629	+	
+3300049256 assembled Ga0508132_00007_194704_194982	CDS	null	hypothetical protein	194704	194982	+	
+3300049256 assembled Ga0508132_00007_195025_195603	CDS	null	putative sporulation protein YyaC	195025	195603	+	
+3300049256 assembled Ga0508132_00007_195709_195915	CDS	null	lysyl-tRNA synthetase class I	195709	195915	+	
+3300049256 assembled Ga0508132_00007_195908_196117	CDS	null	hypothetical protein	195908	196117	+	
+3300049256 assembled Ga0508132_00007_196087_196539	CDS	null	hypothetical protein	196087	196539	+	
+3300049256 assembled Ga0508132_00007_196672_196806	CDS	null	hypothetical protein	196672	196806	+	
+3300049256 assembled Ga0508132_00007_196830_197033	CDS	null	hypothetical protein	196830	197033	+	
+3300049256 assembled Ga0508132_00007_197023_197460	CDS	null	hypothetical protein	197023	197460	+	
+3300049256 assembled Ga0508132_00007_197464_197697	CDS	null	hypothetical protein	197464	197697	+	
+3300049256 assembled Ga0508132_00007_19764_19961	CDS	null	hypothetical protein	19764	19961	+	
+3300049256 assembled Ga0508132_00007_197699_197953	CDS	null	hypothetical protein	197699	197953	+	
+3300049256 assembled Ga0508132_00007_198009_198245	CDS	null	hypothetical protein	198009	198245	+	
+3300049256 assembled Ga0508132_00007_198238_198522	CDS	null	NAD-dependent DNA ligase	198238	198522	+	
+3300049256 assembled Ga0508132_00007_198540_199196	CDS	null	hypothetical protein	198540	199196	+	
+3300049256 assembled Ga0508132_00007_199177_202233	CDS	null	DNA polymerase-3 subunit alpha	199177	202233	+	
+3300049256 assembled Ga0508132_00007_19992_21746	CDS	null	pyruvate kinase	19992	21746	+	
+3300049256 assembled Ga0508132_00007_202292_203353	CDS	null	group I intron endonuclease	202292	203353	+	
+3300049256 assembled Ga0508132_00007_203374_203709	CDS	null	transcriptional regulator with XRE-family HTH domain	203374	203709	-	
+3300049256 assembled Ga0508132_00007_203828_204022	CDS	null	hypothetical protein	203828	204022	+	
+3300049256 assembled Ga0508132_00007_204431_205096	CDS	null	phosphate transport system protein	204431	205096	+	
+3300049256 assembled Ga0508132_00007_205350_205670	CDS	null	hypothetical protein	205350	205670	+	
+3300049256 assembled Ga0508132_00007_205708_206364	CDS	null	polyferredoxin	205708	206364	+	
+3300049256 assembled Ga0508132_00007_206627_206743	CDS	null	desulfoferrodoxin-like iron-binding protein	206627	206743	-	
+3300049256 assembled Ga0508132_00007_207014_207433	CDS	null	uncharacterized protein YbbK (DUF523 family)	207014	207433	+	
+3300049256 assembled Ga0508132_00007_207538_208140	CDS	null	hypothetical protein	207538	208140	+	
+3300049256 assembled Ga0508132_00007_208410_208814	CDS	null	hypothetical protein	208410	208814	+	
+3300049256 assembled Ga0508132_00007_208943_209188	CDS	null	hypothetical protein	208943	209188	+	
+3300049256 assembled Ga0508132_00007_209286_209756	CDS	null	hypothetical protein	209286	209756	+	
+3300049256 assembled Ga0508132_00007_209984_210466	CDS	null	hypothetical protein	209984	210466	+	
+3300049256 assembled Ga0508132_00007_210620_211714	CDS	null	phosphoserine aminotransferase	210620	211714	+	
+3300049256 assembled Ga0508132_00007_211880_213094	CDS	null	diguanylate cyclase (GGDEF)-like protein	211880	213094	+	
+3300049256 assembled Ga0508132_00007_213144_213428	CDS	null	hypothetical protein	213144	213428	-	
+3300049256 assembled Ga0508132_00007_213535_214020	CDS	null	uncharacterized YkwD family protein	213535	214020	+	
+3300049256 assembled Ga0508132_00007_214026_214835	CDS	null	hypothetical protein	214026	214835	-	
+3300049256 assembled Ga0508132_00007_214987_216249	CDS	null	DcuC family C4-dicarboxylate transporter	214987	216249	+	
+3300049256 assembled Ga0508132_00007_216617_217573	CDS	null	aspartate carbamoyltransferase catalytic subunit	216617	217573	+	
+3300049256 assembled Ga0508132_00007_217563_218846	CDS	null	dihydroorotase	217563	218846	+	
+3300049256 assembled Ga0508132_00007_21761_23125	CDS	null	hypothetical protein	21761	23125	+	
+3300049256 assembled Ga0508132_00007_218843_219907	CDS	null	carbamoyl-phosphate synthase small subunit	218843	219907	+	
+3300049256 assembled Ga0508132_00007_219910_223128	CDS	null	carbamoyl-phosphate synthase large subunit	219910	223128	+	
+3300049256 assembled Ga0508132_00007_223115_223903	CDS	null	dihydroorotate dehydrogenase electron transfer subunit	223115	223903	+	
+3300049256 assembled Ga0508132_00007_223891_224799	CDS	null	dihydroorotate dehydrogenase (NAD+) catalytic subunit	223891	224799	+	
+3300049256 assembled Ga0508132_00007_224817_225530	CDS	null	orotidine-5'-phosphate decarboxylase	224817	225530	+	
+3300049256 assembled Ga0508132_00007_225531_226103	CDS	null	orotate phosphoribosyltransferase	225531	226103	+	
+3300049256 assembled Ga0508132_00007_226283_226771	CDS	null	hypothetical protein	226283	226771	+	
+3300049256 assembled Ga0508132_00007_226772_227386	CDS	null	DNA-3-methyladenine glycosylase II	226772	227386	-	
+3300049256 assembled Ga0508132_00007_227615_227691	tRNA	null	tRNA_Asp_GTC	227615	227691	+	
+3300049256 assembled Ga0508132_00007_227700_227774	tRNA	null	tRNA_Gly_GCC	227700	227774	+	
+3300049256 assembled Ga0508132_00007_227780_227855	tRNA	null	tRNA_Trp_CCA	227780	227855	+	
+3300049256 assembled Ga0508132_00007_228163_228930	CDS	null	hypothetical protein	228163	228930	+	
+3300049256 assembled Ga0508132_00007_228897_229751	CDS	null	hypothetical protein	228897	229751	+	
+3300049256 assembled Ga0508132_00007_230302_231351	CDS	null	hypothetical protein	230302	231351	+	
+3300049256 assembled Ga0508132_00007_23122_23811	CDS	null	ubiquinone/menaquinone biosynthesis C-methylase UbiE	23122	23811	+	
+3300049256 assembled Ga0508132_00007_231900_232745	CDS	null	poly(hydroxyalkanoate) depolymerase family esterase	231900	232745	+	
+3300049256 assembled Ga0508132_00007_232867_233031	CDS	null	hypothetical protein	232867	233031	+	
+3300049256 assembled Ga0508132_00007_233028_233390	CDS	null	hypothetical protein	233028	233390	+	
+3300049256 assembled Ga0508132_00007_233499_233798	CDS	null	DNA-binding protein H-NS	233499	233798	-	
+3300049256 assembled Ga0508132_00007_234019_234483	CDS	null	uncharacterized membrane protein (DUF441 family)	234019	234483	+	
+3300049256 assembled Ga0508132_00007_234720_235820	CDS	null	hypothetical protein	234720	235820	+	
+3300049256 assembled Ga0508132_00007_235998_236420	CDS	null	hypothetical protein	235998	236420	-	
+3300049256 assembled Ga0508132_00007_236591_237127	CDS	null	hypothetical protein	236591	237127	-	
+3300049256 assembled Ga0508132_00007_237521_237880	CDS	null	septal ring factor EnvC (AmiA/AmiB activator)	237521	237880	+	
+3300049256 assembled Ga0508132_00007_238127_239032	CDS	null	drug/metabolite transporter (DMT)-like permease	238127	239032	+	
+3300049256 assembled Ga0508132_00007_23829_24971	CDS	null	peptidoglycan/LPS O-acetylase OafA/YrhL	23829	24971	-	
+3300049256 assembled Ga0508132_00007_239215_239787	CDS	null	hypothetical protein	239215	239787	+	
+3300049256 assembled Ga0508132_00007_239876_240310	CDS	null	hypothetical protein	239876	240310	-	
+3300049256 assembled Ga0508132_00007_240414_240746	CDS	null	uncharacterized protein (UPF0335 family)	240414	240746	-	
+3300049256 assembled Ga0508132_00007_240955_241131	CDS	null	hypothetical protein	240955	241131	+	
+3300049256 assembled Ga0508132_00007_241158_243317	CDS	null	diguanylate cyclase (GGDEF)-like protein	241158	243317	+	
+3300049256 assembled Ga0508132_00007_243501_244481	CDS	null	hypothetical protein	243501	244481	+	
+3300049256 assembled Ga0508132_00007_244589_245029	CDS	null	acyl-CoA thioesterase	244589	245029	+	
+3300049256 assembled Ga0508132_00007_245094_245261	CDS	null	hypothetical protein	245094	245261	-	
+3300049256 assembled Ga0508132_00007_245582_245860	CDS	null	cell division protein FtsW (lipid II flippase)	245582	245860	+	
+3300049256 assembled Ga0508132_00007_245874_246071	CDS	null	hypothetical protein	245874	246071	+	
+3300049256 assembled Ga0508132_00007_246241_247128	CDS	null	hypothetical protein	246241	247128	+	
+3300049256 assembled Ga0508132_00007_247361_248143	CDS	null	hypothetical protein	247361	248143	+	
+3300049256 assembled Ga0508132_00007_248255_249370	CDS	null	hypothetical protein	248255	249370	+	
+3300049256 assembled Ga0508132_00007_249516_250373	CDS	null	hypothetical protein	249516	250373	+	
+3300049256 assembled Ga0508132_00007_250449_251108	CDS	null	hemolysin III	250449	251108	-	
+3300049256 assembled Ga0508132_00007_25092_25229	CDS	null	peroxiredoxin Q/BCP	25092	25229	+	
+3300049256 assembled Ga0508132_00007_251261_251740	CDS	null	nitroimidazol reductase NimA-like FMN-containing flavoprotein (pyridoxamine 5'-phosphate oxidase superfamily)	251261	251740	-	
+3300049256 assembled Ga0508132_00007_251912_252136	CDS	null	hypothetical protein	251912	252136	+	
+3300049256 assembled Ga0508132_00007_252611_253573	CDS	null	ribosome biogenesis GTPase	252611	253573	+	
+3300049256 assembled Ga0508132_00007_254004_255404	CDS	null	two-component system response regulator AtoC	254004	255404	+	
+3300049256 assembled Ga0508132_00007_25407_25523	CDS	null	hypothetical protein	25407	25523	-	
+3300049256 assembled Ga0508132_00007_25546_26082	CDS	null	hypothetical protein	25546	26082	-	
+3300049256 assembled Ga0508132_00007_255609_256493	CDS	null	ferredoxin--NADP+ reductase	255609	256493	+	
+3300049256 assembled Ga0508132_00007_256505_257851	CDS	null	glutamate synthase (NADPH/NADH) small chain	256505	257851	+	
+3300049256 assembled Ga0508132_00007_257882_258832	CDS	null	3-hydroxybutyryl-CoA dehydrogenase	257882	258832	+	
+3300049256 assembled Ga0508132_00007_258966_260378	CDS	null	short-chain fatty acids transporter	258966	260378	+	
+3300049256 assembled Ga0508132_00007_260479_260718	CDS	null	3-hydroxybutyryl-CoA dehydrogenase	260479	260718	+	
+3300049256 assembled Ga0508132_00007_26206_27063	CDS	null	D-alanine transaminase	26206	27063	+	
+3300049256 assembled Ga0508132_00007_27196_28626	CDS	null	EmrB/QacA subfamily drug resistance transporter	27196	28626	+	
+3300049256 assembled Ga0508132_00007_28645_28740	CDS	null	hypothetical protein	28645	28740	+	
+3300049256 assembled Ga0508132_00007_28753_28959	CDS	null	hypothetical protein	28753	28959	+	
+3300049256 assembled Ga0508132_00007_28987_29676	CDS	null	L,D-transpeptidase ErfK/SrfK	28987	29676	-	
+3300049256 assembled Ga0508132_00007_29868_30215	CDS	null	hypothetical protein	29868	30215	-	
+3300049256 assembled Ga0508132_00007_30379_30705	CDS	null	hypothetical protein	30379	30705	+	
+3300049256 assembled Ga0508132_00007_30719_31231	CDS	null	hypothetical protein	30719	31231	+	
+3300049256 assembled Ga0508132_00007_31353_31805	CDS	null	C_GCAxxG_C_C family probable redox protein	31353	31805	+	
+3300049256 assembled Ga0508132_00007_31782_32516	CDS	null	predicted metal-dependent hydrolase	31782	32516	-	
+3300049256 assembled Ga0508132_00007_32624_32710	tRNA	null	tRNA_Leu_CAA	32624	32710	+	
+3300049256 assembled Ga0508132_00007_34199_35200	CDS	null	repressor LexA	34199	35200	-	
+3300049256 assembled Ga0508132_00007_35349_35570	CDS	null	plasmid maintenance system antidote protein VapI	35349	35570	+	
+3300049256 assembled Ga0508132_00007_35607_35765	CDS	null	hypothetical protein	35607	35765	+	
+3300049256 assembled Ga0508132_00007_35805_37214	CDS	null	exonuclease SbcC	35805	37214	+	
+3300049256 assembled Ga0508132_00007_37211_37834	CDS	null	hypothetical protein	37211	37834	+	
+3300049256 assembled Ga0508132_00007_37827_38060	CDS	null	chromosome segregation ATPase	37827	38060	+	
+3300049256 assembled Ga0508132_00007_38074_38826	CDS	null	hypothetical protein	38074	38826	+	
+3300049256 assembled Ga0508132_00007_3829_5403	CDS	null	propionate CoA-transferase	3829	5403	+	
+3300049256 assembled Ga0508132_00007_39018_39290	CDS	null	hypothetical protein	39018	39290	+	
+3300049256 assembled Ga0508132_00007_39301_40305	CDS	null	exonuclease SbcD	39301	40305	+	
+3300049256 assembled Ga0508132_00007_40302_40601	CDS	null	hypothetical protein	40302	40601	+	
+3300049256 assembled Ga0508132_00007_40552_40818	CDS	null	hypothetical protein	40552	40818	+	
+3300049256 assembled Ga0508132_00007_40822_41514	CDS	null	hypothetical protein	40822	41514	+	
+3300049256 assembled Ga0508132_00007_41526_42062	CDS	null	hypothetical protein	41526	42062	+	
+3300049256 assembled Ga0508132_00007_42128_43741	CDS	null	superfamily II DNA or RNA helicase	42128	43741	+	
+3300049256 assembled Ga0508132_00007_43787_43963	CDS	null	hypothetical protein	43787	43963	+	
+3300049256 assembled Ga0508132_00007_44070_44855	CDS	null	hypothetical protein	44070	44855	+	
+3300049256 assembled Ga0508132_00007_44881_47961	CDS	null	hypothetical protein	44881	47961	+	
+3300049256 assembled Ga0508132_00007_47973_50528	CDS	null	DNA polymerase-1	47973	50528	+	
+3300049256 assembled Ga0508132_00007_50569_50949	CDS	null	NTP pyrophosphatase (non-canonical NTP hydrolase)	50569	50949	+	
+3300049256 assembled Ga0508132_00007_51101_51709	CDS	null	hypothetical protein	51101	51709	+	
+3300049256 assembled Ga0508132_00007_51706_51924	CDS	null	hypothetical protein	51706	51924	+	
+3300049256 assembled Ga0508132_00007_51876_52070	CDS	null	hypothetical protein	51876	52070	+	
+3300049256 assembled Ga0508132_00007_52121_52474	CDS	null	CRP-like cAMP-binding protein	52121	52474	+	
+3300049256 assembled Ga0508132_00007_52528_52755	CDS	null	3D (Asp-Asp-Asp) domain-containing protein	52528	52755	+	
+3300049256 assembled Ga0508132_00007_52792_53196	CDS	null	hypothetical protein	52792	53196	+	
+3300049256 assembled Ga0508132_00007_53193_53771	CDS	null	hypothetical protein	53193	53771	+	
+3300049256 assembled Ga0508132_00007_53786_53977	CDS	null	hypothetical protein	53786	53977	+	
+3300049256 assembled Ga0508132_00007_53970_54233	CDS	null	hypothetical protein	53970	54233	+	
+3300049256 assembled Ga0508132_00007_54233_54487	CDS	null	hypothetical protein	54233	54487	+	
+3300049256 assembled Ga0508132_00007_5447_6583	CDS	null	alkylation response protein AidB-like acyl-CoA dehydrogenase	5447	6583	+	
+3300049256 assembled Ga0508132_00007_54502_54786	CDS	null	hypothetical protein	54502	54786	+	
+3300049256 assembled Ga0508132_00007_55183_55377	CDS	null	hypothetical protein	55183	55377	+	
+3300049256 assembled Ga0508132_00007_55377_55637	CDS	null	hypothetical protein	55377	55637	+	
+3300049256 assembled Ga0508132_00007_55995_56432	CDS	null	hypothetical protein	55995	56432	+	
+3300049256 assembled Ga0508132_00007_56640_57161	CDS	null	hypothetical protein	56640	57161	+	
+3300049256 assembled Ga0508132_00007_57325_57564	CDS	null	hypothetical protein	57325	57564	+	
+3300049256 assembled Ga0508132_00007_57575_59245	CDS	null	hypothetical protein	57575	59245	+	
+3300049256 assembled Ga0508132_00007_59349_60992	CDS	null	SPP1 family phage portal protein	59349	60992	+	
+3300049256 assembled Ga0508132_00007_60992_61288	CDS	null	hypothetical protein	60992	61288	+	
+3300049256 assembled Ga0508132_00007_61303_63924	CDS	null	hypothetical protein	61303	63924	+	
+3300049256 assembled Ga0508132_00007_63945_64082	CDS	null	hypothetical protein	63945	64082	+	
+3300049256 assembled Ga0508132_00007_64265_65080	CDS	null	hypothetical protein	64265	65080	+	
+3300049256 assembled Ga0508132_00007_65096_65482	CDS	null	hypothetical protein	65096	65482	+	
+3300049256 assembled Ga0508132_00007_65517_66521	CDS	null	hypothetical protein	65517	66521	+	
+3300049256 assembled Ga0508132_00007_6602_7048	CDS	null	3-hydroxybutyryl-CoA dehydratase	6602	7048	+	
+3300049256 assembled Ga0508132_00007_66594_66956	CDS	null	hypothetical protein	66594	66956	+	
+3300049256 assembled Ga0508132_00007_67019_67360	CDS	null	hypothetical protein	67019	67360	+	
+3300049256 assembled Ga0508132_00007_67360_67860	CDS	null	hypothetical protein	67360	67860	+	
+3300049256 assembled Ga0508132_00007_67876_68415	CDS	null	hypothetical protein	67876	68415	+	
+3300049256 assembled Ga0508132_00007_68429_68635	CDS	null	hypothetical protein	68429	68635	+	
+3300049256 assembled Ga0508132_00007_68649_70064	CDS	null	hypothetical protein	68649	70064	+	
+3300049256 assembled Ga0508132_00007_693_1547	CDS	null	DNA-binding ferritin-like protein	693	1547	-	
+3300049256 assembled Ga0508132_00007_70083_70535	CDS	null	hypothetical protein	70083	70535	+	
+3300049256 assembled Ga0508132_00007_70611_71051	CDS	null	hypothetical protein	70611	71051	+	
+3300049256 assembled Ga0508132_00007_7108_7893	CDS	null	enoyl-CoA hydratase	7108	7893	+	
+3300049256 assembled Ga0508132_00007_71494_73506	CDS	null	phage-related protein	71494	73506	+	
+3300049256 assembled Ga0508132_00007_73506_74339	CDS	null	hypothetical protein	73506	74339	+	
+3300049256 assembled Ga0508132_00007_74352_75470	CDS	null	hypothetical protein	74352	75470	+	
+3300049256 assembled Ga0508132_00007_75486_75956	CDS	null	hypothetical protein	75486	75956	+	
+3300049256 assembled Ga0508132_00007_75971_76447	CDS	null	hypothetical protein	75971	76447	+	
+3300049256 assembled Ga0508132_00007_76488_78032	CDS	null	uncharacterized phage protein gp47/JayE	76488	78032	+	
+3300049256 assembled Ga0508132_00007_78029_78589	CDS	null	hypothetical protein	78029	78589	+	
+3300049256 assembled Ga0508132_00007_78611_80605	CDS	null	hypothetical protein	78611	80605	+	
+3300049256 assembled Ga0508132_00007_8052_9446	CDS	null	H+/gluconate symporter-like permease	8052	9446	+	
+3300049256 assembled Ga0508132_00007_80618_81202	CDS	null	hypothetical protein	80618	81202	+	
+3300049256 assembled Ga0508132_00007_81267_81872	CDS	null	phage-related holin	81267	81872	+	
+3300049256 assembled Ga0508132_00007_81869_82441	CDS	null	N-acetylmuramoyl-L-alanine amidase	81869	82441	+	
+3300049256 assembled Ga0508132_00007_82443_82997	CDS	null	hypothetical protein	82443	82997	+	
+3300049256 assembled Ga0508132_00007_82994_83680	CDS	null	hypothetical protein	82994	83680	+	
+3300049256 assembled Ga0508132_00007_83792_84256	CDS	null	hypothetical protein	83792	84256	+	
+3300049256 assembled Ga0508132_00007_84534_84773	CDS	null	hypothetical protein	84534	84773	+	
+3300049256 assembled Ga0508132_00007_84935_85411	CDS	null	hypothetical protein	84935	85411	+	
+3300049256 assembled Ga0508132_00007_85411_85827	CDS	null	hypothetical protein	85411	85827	+	
+3300049256 assembled Ga0508132_00007_86066_86326	CDS	null	hypothetical protein	86066	86326	+	
+3300049256 assembled Ga0508132_00007_86978_87091	CDS	null	hypothetical protein	86978	87091	-	
+3300049256 assembled Ga0508132_00007_87281_87835	CDS	null	hypothetical protein	87281	87835	+	
+3300049256 assembled Ga0508132_00007_87899_88804	CDS	null	pimeloyl-ACP methyl ester carboxylesterase	87899	88804	+	
+3300049256 assembled Ga0508132_00007_88871_89362	CDS	null	hypothetical protein	88871	89362	-	
+3300049256 assembled Ga0508132_00007_89938_90990	CDS	null	hypothetical protein	89938	90990	+	
+3300049256 assembled Ga0508132_00007_91216_91986	CDS	null	hypothetical protein	91216	91986	+	
+3300049256 assembled Ga0508132_00007_92001_92687	CDS	null	sugar fermentation stimulation protein A	92001	92687	+	
+3300049256 assembled Ga0508132_00007_92883_93866	CDS	null	6-phosphofructokinase 1	92883	93866	+	
+3300049256 assembled Ga0508132_00007_93937_95856	CDS	null	1,4-alpha-glucan branching enzyme	93937	95856	+	
+3300049256 assembled Ga0508132_00007_9561_10346	CDS	null	electron transfer flavoprotein beta subunit	9561	10346	+	
+3300049256 assembled Ga0508132_00007_95861_97333	CDS	null	starch synthase	95861	97333	+	
+3300049256 assembled Ga0508132_00007_97308_99836	CDS	null	starch phosphorylase	97308	99836	+	
+3300049256 assembled Ga0508132_00007_99842_103297	CDS	null	4-alpha-glucanotransferase	99842	103297	+	

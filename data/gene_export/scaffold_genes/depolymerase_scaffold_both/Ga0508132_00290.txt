@@ -1,0 +1,22 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00290_11290_12402	CDS	null	uncharacterized membrane protein YccC	11290	12402	+	
+3300049256 assembled Ga0508132_00290_12436_12897	CDS	null	uncharacterized membrane protein	12436	12897	-	
+3300049256 assembled Ga0508132_00290_13197_13499	CDS	null	hypothetical protein	13197	13499	+	
+3300049256 assembled Ga0508132_00290_13661_14851	CDS	null	poly(hydroxyalkanoate) depolymerase family esterase	13661	14851	+	
+3300049256 assembled Ga0508132_00290_15062_15481	CDS	null	hypothetical protein	15062	15481	+	
+3300049256 assembled Ga0508132_00290_1530_1727	CDS	null	hypothetical protein	1530	1727	+	
+3300049256 assembled Ga0508132_00290_15582_16562	CDS	null	AraC-like DNA-binding protein	15582	16562	-	
+3300049256 assembled Ga0508132_00290_16848_17516	CDS	null	glyoxylase-like metal-dependent hydrolase (beta-lactamase superfamily II)	16848	17516	-	
+3300049256 assembled Ga0508132_00290_17712_18830	CDS	null	uncharacterized protein YegL	17712	18830	-	
+3300049256 assembled Ga0508132_00290_1838_2554	CDS	null	DNA repair protein RadC	1838	2554	+	
+3300049256 assembled Ga0508132_00290_18975_19454	CDS	null	hypothetical protein	18975	19454	+	
+3300049256 assembled Ga0508132_00290_19602_19724	CDS	null	ActR/RegA family two-component response regulator	19602	19724	-	
+3300049256 assembled Ga0508132_00290_2730_3515	CDS	null	enoyl-CoA hydratase	2730	3515	-	
+3300049256 assembled Ga0508132_00290_353_1345	CDS	null	DNA end-binding protein Ku	353	1345	-	
+3300049256 assembled Ga0508132_00290_3741_4658	CDS	null	phosphoribosylaminoimidazole-succinocarboxamide synthase	3741	4658	-	
+3300049256 assembled Ga0508132_00290_3_230	CDS	null	methionyl aminopeptidase	3	230	+	
+3300049256 assembled Ga0508132_00290_4732_5640	CDS	null	redox-sensitive bicupin YhaK (pirin superfamily)	4732	5640	-	
+3300049256 assembled Ga0508132_00290_5798_7225	CDS	null	malonyl-CoA decarboxylase	5798	7225	-	
+3300049256 assembled Ga0508132_00290_7367_8911	CDS	null	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II	7367	8911	-	
+3300049256 assembled Ga0508132_00290_9067_9666	CDS	null	PAS domain-containing protein	9067	9666	-	
+3300049256 assembled Ga0508132_00290_9749_11113	CDS	null	2-methylcitrate dehydratase PrpD	9749	11113	-	

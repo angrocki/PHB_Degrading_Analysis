@@ -1,0 +1,2 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_07055_2_859	CDS	null	poly(hydroxyalkanoate) depolymerase family esterase	2	859	-	

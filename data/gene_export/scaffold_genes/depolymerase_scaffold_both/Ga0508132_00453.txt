@@ -1,0 +1,15 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00453_10190_11410	CDS	null	ABC-type branched-subunit amino acid transport system substrate-binding protein	10190	11410	-	
+3300049256 assembled Ga0508132_00453_11555_11917	CDS	null	putative membrane protein	11555	11917	-	
+3300049256 assembled Ga0508132_00453_12001_12429	CDS	null	uncharacterized protein (DUF1330 family)	12001	12429	+	
+3300049256 assembled Ga0508132_00453_12529_14382	CDS	null	PAS domain-containing protein	12529	14382	+	
+3300049256 assembled Ga0508132_00453_1890_2828	CDS	null	ABC-2 type transport system ATP-binding protein	1890	2828	+	
+3300049256 assembled Ga0508132_00453_2825_3655	CDS	null	ABC-2 type transport system permease protein	2825	3655	+	
+3300049256 assembled Ga0508132_00453_3796_5124	CDS	null	poly(3-hydroxybutyrate) depolymerase	3796	5124	+	
+3300049256 assembled Ga0508132_00453_3_509	CDS	null	two-component system response regulator RegA	3	509	-	
+3300049256 assembled Ga0508132_00453_5464_6216	CDS	null	predicted metal-dependent hydrolase	5464	6216	+	
+3300049256 assembled Ga0508132_00453_603_1925	CDS	null	two-component system sensor histidine kinase RegB	603	1925	-	
+3300049256 assembled Ga0508132_00453_6287_8524	CDS	null	penicillin-binding protein 1A	6287	8524	-	
+3300049256 assembled Ga0508132_00453_8628_8879	CDS	null	hypothetical protein	8628	8879	+	
+3300049256 assembled Ga0508132_00453_8923_9135	CDS	null	hypothetical protein	8923	9135	-	
+3300049256 assembled Ga0508132_00453_9132_9314	CDS	null	hypothetical protein	9132	9314	-	

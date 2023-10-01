@@ -1,0 +1,41 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00105_10355_11371	CDS	null	hypothetical protein	10355	11371	-	
+3300049256 assembled Ga0508132_00105_11479_13800	CDS	null	23S rRNA pseudouridine2605 synthase	11479	13800	+	
+3300049256 assembled Ga0508132_00105_1174_2472	CDS	null	glutamate-5-semialdehyde dehydrogenase	1174	2472	+	
+3300049256 assembled Ga0508132_00105_13797_14354	CDS	null	16S rRNA (guanine966-N2)-methyltransferase	13797	14354	+	
+3300049256 assembled Ga0508132_00105_14439_15206	CDS	null	trans-aconitate 2-methyltransferase	14439	15206	+	
+3300049256 assembled Ga0508132_00105_15283_15879	CDS	null	uncharacterized protein (TIGR00730 family)	15283	15879	-	
+3300049256 assembled Ga0508132_00105_16000_16170	CDS	null	hypothetical protein	16000	16170	+	
+3300049256 assembled Ga0508132_00105_16215_16868	CDS	null	large subunit ribosomal protein L19	16215	16868	-	
+3300049256 assembled Ga0508132_00105_16865_17065	CDS	null	hypothetical protein	16865	17065	-	
+3300049256 assembled Ga0508132_00105_17075_17683	CDS	null	hypothetical protein	17075	17683	+	
+3300049256 assembled Ga0508132_00105_17760_18848	CDS	null	HlyD family secretion protein	17760	18848	-	
+3300049256 assembled Ga0508132_00105_18841_19629	CDS	null	putative ABC transport system ATP-binding protein	18841	19629	-	
+3300049256 assembled Ga0508132_00105_19626_20741	CDS	null	putative ABC transport system permease protein	19626	20741	-	
+3300049256 assembled Ga0508132_00105_1_537	CDS	null	glutamate 5-kinase	1	537	+	
+3300049256 assembled Ga0508132_00105_21033_21449	CDS	null	DnaK suppressor protein	21033	21449	+	
+3300049256 assembled Ga0508132_00105_21520_23862	CDS	null	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+)	21520	23862	-	
+3300049256 assembled Ga0508132_00105_24298_25143	CDS	null	formylglycine-generating enzyme required for sulfatase activity	24298	25143	+	
+3300049256 assembled Ga0508132_00105_2469_3098	CDS	null	nicotinate-nucleotide adenylyltransferase	2469	3098	+	
+3300049256 assembled Ga0508132_00105_25165_26787	CDS	null	hypothetical protein	25165	26787	+	
+3300049256 assembled Ga0508132_00105_27071_27598	CDS	null	hypothetical protein	27071	27598	-	
+3300049256 assembled Ga0508132_00105_27796_28347	CDS	null	predicted transcriptional regulator	27796	28347	-	
+3300049256 assembled Ga0508132_00105_28886_29602	CDS	null	KipI family sensor histidine kinase inhibitor	28886	29602	+	
+3300049256 assembled Ga0508132_00105_29572_30627	CDS	null	biotin-dependent carboxylase-like uncharacterized protein	29572	30627	+	
+3300049256 assembled Ga0508132_00105_30766_31632	CDS	null	acyl-CoA thioesterase-2	30766	31632	-	
+3300049256 assembled Ga0508132_00105_31720_32976	CDS	null	2-octaprenyl-6-methoxyphenol hydroxylase	31720	32976	+	
+3300049256 assembled Ga0508132_00105_32997_34010	CDS	null	pimeloyl-ACP methyl ester carboxylesterase	32997	34010	-	
+3300049256 assembled Ga0508132_00105_3342_3563	CDS	null	hypothetical protein	3342	3563	-	
+3300049256 assembled Ga0508132_00105_34155_35417	CDS	null	AcrR family transcriptional regulator/peroxiredoxin	34155	35417	+	
+3300049256 assembled Ga0508132_00105_35449_37695	CDS	null	transglutaminase-like putative cysteine protease	35449	37695	+	
+3300049256 assembled Ga0508132_00105_3562_3786	CDS	null	hypothetical protein	3562	3786	+	
+3300049256 assembled Ga0508132_00105_37749_38780	CDS	null	acetyl esterase/lipase	37749	38780	+	
+3300049256 assembled Ga0508132_00105_3953_4420	CDS	null	acyl-CoA thioester hydrolase	3953	4420	-	
+3300049256 assembled Ga0508132_00105_4532_5245	CDS	null	hypothetical protein	4532	5245	+	
+3300049256 assembled Ga0508132_00105_5265_6572	CDS	null	poly(3-hydroxybutyrate) depolymerase	5265	6572	-	
+3300049256 assembled Ga0508132_00105_631_1152	CDS	null	hypothetical protein	631	1152	+	
+3300049256 assembled Ga0508132_00105_6618_6731	CDS	null	hypothetical protein	6618	6731	+	
+3300049256 assembled Ga0508132_00105_6770_7429	CDS	null	protein SCO1/2	6770	7429	-	
+3300049256 assembled Ga0508132_00105_7557_8885	CDS	null	two-component system sensor histidine kinase RegB	7557	8885	+	
+3300049256 assembled Ga0508132_00105_8993_9547	CDS	null	two-component system response regulator RegA	8993	9547	+	
+3300049256 assembled Ga0508132_00105_9575_10048	CDS	null	tRNA(Arg) A34 adenosine deaminase TadA	9575	10048	-	
