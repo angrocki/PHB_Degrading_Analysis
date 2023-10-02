@@ -1,0 +1,69 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00045_11123_12325	CDS	null	glycosyltransferase involved in cell wall biosynthesis	11123	12325	+	
+3300049256 assembled Ga0508132_00045_1162_2175	CDS	null	S1-C subfamily serine protease	1162	2175	-	
+3300049256 assembled Ga0508132_00045_12353_13876	CDS	null	hypothetical protein	12353	13876	+	
+3300049256 assembled Ga0508132_00045_13896_14255	CDS	null	hypothetical protein	13896	14255	-	
+3300049256 assembled Ga0508132_00045_14515_15867	CDS	null	O-antigen/teichoic acid export membrane protein	14515	15867	+	
+3300049256 assembled Ga0508132_00045_15916_16443	CDS	null	flavin reductase (DIM6/NTAB) family NADH-FMN oxidoreductase RutF	15916	16443	-	
+3300049256 assembled Ga0508132_00045_16440_17441	CDS	null	homoserine O-succinyltransferase	16440	17441	-	
+3300049256 assembled Ga0508132_00045_17455_18759	CDS	null	O-acetylhomoserine (thiol)-lyase	17455	18759	-	
+3300049256 assembled Ga0508132_00045_19037_20857	CDS	null	fatty-acyl-CoA synthase	19037	20857	+	
+3300049256 assembled Ga0508132_00045_20857_21741	CDS	null	branched-chain amino acid aminotransferase	20857	21741	+	
+3300049256 assembled Ga0508132_00045_21769_22650	CDS	null	hypothetical protein	21769	22650	-	
+3300049256 assembled Ga0508132_00045_22726_22995	CDS	null	acyl carrier protein	22726	22995	+	
+3300049256 assembled Ga0508132_00045_22982_24364	CDS	null	acyl-coenzyme A synthetase/AMP-(fatty) acid ligase	22982	24364	+	
+3300049256 assembled Ga0508132_00045_24357_25088	CDS	null	3-oxoacyl-[acyl-carrier protein] reductase	24357	25088	+	
+3300049256 assembled Ga0508132_00045_2525_3796	CDS	null	hypothetical protein	2525	3796	+	
+3300049256 assembled Ga0508132_00045_25274_26212	CDS	null	seryl-tRNA synthetase	25274	26212	-	
+3300049256 assembled Ga0508132_00045_26257_27477	CDS	null	acyl-CoA dehydrogenase	26257	27477	-	
+3300049256 assembled Ga0508132_00045_27812_28108	CDS	null	acyl carrier protein	27812	28108	+	
+3300049256 assembled Ga0508132_00045_28188_28643	CDS	null	uncharacterized cupin superfamily protein	28188	28643	+	
+3300049256 assembled Ga0508132_00045_28897_29409	CDS	null	nucleoside-triphosphatase THEP1	28897	29409	+	
+3300049256 assembled Ga0508132_00045_29516_29812	CDS	null	ferredoxin like protein	29516	29812	-	
+3300049256 assembled Ga0508132_00045_29848_31155	CDS	null	electron transfer flavoprotein-quinone oxidoreductase	29848	31155	-	
+3300049256 assembled Ga0508132_00045_2_511	CDS	null	simple sugar transport system substrate-binding protein	2	511	+	
+3300049256 assembled Ga0508132_00045_31167_32273	CDS	null	electron transfer flavoprotein alpha subunit	31167	32273	-	
+3300049256 assembled Ga0508132_00045_32299_33144	CDS	null	electron transfer flavoprotein beta subunit	32299	33144	-	
+3300049256 assembled Ga0508132_00045_33456_33839	CDS	null	nitrogenase-stabilizing/protective protein	33456	33839	-	
+3300049256 assembled Ga0508132_00045_33840_35024	CDS	null	homocitrate synthase NifV	33840	35024	-	
+3300049256 assembled Ga0508132_00045_35017_36243	CDS	null	cysteine desulfurase	35017	36243	-	
+3300049256 assembled Ga0508132_00045_36243_37283	CDS	null	NifU-like protein	36243	37283	-	
+3300049256 assembled Ga0508132_00045_37258_37578	CDS	null	iron-sulfur cluster assembly protein	37258	37578	-	
+3300049256 assembled Ga0508132_00045_37743_38435	CDS	null	nitrogen fixation protein NifQ	37743	38435	-	
+3300049256 assembled Ga0508132_00045_3829_4812	CDS	null	UDP-glucose 4-epimerase	3829	4812	+	
+3300049256 assembled Ga0508132_00045_38466_38780	CDS	null	Nif-specific ferredoxin III	38466	38780	-	
+3300049256 assembled Ga0508132_00045_38834_39040	CDS	null	hypothetical protein	38834	39040	-	
+3300049256 assembled Ga0508132_00045_39058_39525	CDS	null	probable nitrogen fixation protein	39058	39525	-	
+3300049256 assembled Ga0508132_00045_39528_40040	CDS	null	nitrogen fixation protein NifX	39528	40040	-	
+3300049256 assembled Ga0508132_00045_39973_41346	CDS	null	nitrogenase molybdenum-iron protein NifN	39973	41346	-	
+3300049256 assembled Ga0508132_00045_41357_42823	CDS	null	nitrogenase molybdenum-cofactor synthesis protein NifE	41357	42823	-	
+3300049256 assembled Ga0508132_00045_42875_44452	CDS	null	nitrogenase molybdenum-iron protein beta chain	42875	44452	-	
+3300049256 assembled Ga0508132_00045_44513_45976	CDS	null	nitrogenase molybdenum-iron protein alpha chain	44513	45976	-	
+3300049256 assembled Ga0508132_00045_46046_46936	CDS	null	nitrogenase iron protein NifH	46046	46936	-	
+3300049256 assembled Ga0508132_00045_47381_48283	CDS	null	hypothetical protein	47381	48283	-	
+3300049256 assembled Ga0508132_00045_48296_48571	CDS	null	hypothetical protein	48296	48571	-	
+3300049256 assembled Ga0508132_00045_48574_48774	CDS	null	nitrogen fixation protein NifT	48574	48774	-	
+3300049256 assembled Ga0508132_00045_48812_49045	CDS	null	nitrogen fixation protein NifZ	48812	49045	-	
+3300049256 assembled Ga0508132_00045_49045_49344	CDS	null	nitrogen fixation protein NifZ	49045	49344	-	
+3300049256 assembled Ga0508132_00045_49341_50126	CDS	null	hypothetical protein	49341	50126	-	
+3300049256 assembled Ga0508132_00045_50116_50655	CDS	null	tetratricopeptide (TPR) repeat protein	50116	50655	-	
+3300049256 assembled Ga0508132_00045_5051_5971	CDS	null	exopolysaccharide biosynthesis WecB/TagA/CpsF family protein	5051	5971	+	
+3300049256 assembled Ga0508132_00045_50658_51014	CDS	null	iron-sulfur cluster assembly accessory protein	50658	51014	-	
+3300049256 assembled Ga0508132_00045_51025_51246	CDS	null	ferredoxin	51025	51246	-	
+3300049256 assembled Ga0508132_00045_51251_52834	CDS	null	nitrogen fixation protein NifB	51251	52834	-	
+3300049256 assembled Ga0508132_00045_52971_53165	CDS	null	ferredoxin	52971	53165	-	
+3300049256 assembled Ga0508132_00045_53349_55106	CDS	null	Nif-specific regulatory protein	53349	55106	-	
+3300049256 assembled Ga0508132_00045_536_967	CDS	null	uncharacterized protein GlcG (DUF336 family)	536	967	+	
+3300049256 assembled Ga0508132_00045_55416_56261	CDS	null	NAD(P)-dependent dehydrogenase (short-subunit alcohol dehydrogenase family)	55416	56261	-	
+3300049256 assembled Ga0508132_00045_56260_56568	CDS	null	hypothetical protein	56260	56568	+	
+3300049256 assembled Ga0508132_00045_56565_57410	CDS	null	hypothetical protein	56565	57410	+	
+3300049256 assembled Ga0508132_00045_57418_59298	CDS	null	ferrous iron transport protein B	57418	59298	-	
+3300049256 assembled Ga0508132_00045_59339_59626	CDS	null	ferrous iron transport protein A	59339	59626	-	
+3300049256 assembled Ga0508132_00045_60031_60186	CDS	null	hypothetical protein	60031	60186	+	
+3300049256 assembled Ga0508132_00045_6003_7322	CDS	null	aryl-phospho-beta-D-glucosidase BglC (GH1 family)	6003	7322	-	
+3300049256 assembled Ga0508132_00045_60239_60544	CDS	null	hypothetical protein	60239	60544	-	
+3300049256 assembled Ga0508132_00045_60862_62247	CDS	null	ribulose-bisphosphate carboxylase large chain	60862	62247	-	
+3300049256 assembled Ga0508132_00045_62304_63389	CDS	null	fructose-bisphosphate aldolase class II	62304	63389	-	
+3300049256 assembled Ga0508132_00045_63448_64914	CDS	null	transketolase	63448	64914	-	
+3300049256 assembled Ga0508132_00045_7333_8673	CDS	null	hypothetical protein	7333	8673	-	
+3300049256 assembled Ga0508132_00045_8670_10781	CDS	null	uncharacterized protein involved in exopolysaccharide biosynthesis/Mrp family chromosome partitioning ATPase	8670	10781	-	

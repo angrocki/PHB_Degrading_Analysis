@@ -1,0 +1,14 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00651_10316_10654	CDS	null	hypothetical protein	10316	10654	-	
+3300049256 assembled Ga0508132_00651_1084_1746	CDS	null	nitrogenase iron protein NifH	1084	1746	-	
+3300049256 assembled Ga0508132_00651_1790_3013	CDS	null	hypothetical protein	1790	3013	-	
+3300049256 assembled Ga0508132_00651_3454_4401	CDS	null	sulfonate transport system substrate-binding protein	3454	4401	+	
+3300049256 assembled Ga0508132_00651_3_872	CDS	null	nitrogenase molybdenum-iron protein alpha/beta subunit	3	872	-	
+3300049256 assembled Ga0508132_00651_4444_5619	CDS	null	alkanesulfonate monooxygenase	4444	5619	+	
+3300049256 assembled Ga0508132_00651_5616_6422	CDS	null	sulfonate transport system permease protein	5616	6422	+	
+3300049256 assembled Ga0508132_00651_6427_7272	CDS	null	sulfonate transport system ATP-binding protein	6427	7272	+	
+3300049256 assembled Ga0508132_00651_7283_7852	CDS	null	flavin reductase (DIM6/NTAB) family NADH-FMN oxidoreductase RutF	7283	7852	+	
+3300049256 assembled Ga0508132_00651_8035_8967	CDS	null	sulfonate transport system substrate-binding protein	8035	8967	+	
+3300049256 assembled Ga0508132_00651_874_1062	CDS	null	nitrogenase iron protein NifH	874	1062	-	
+3300049256 assembled Ga0508132_00651_9207_9533	CDS	null	hypothetical protein	9207	9533	+	
+3300049256 assembled Ga0508132_00651_9530_10153	CDS	null	transcriptional regulator with XRE-family HTH domain	9530	10153	+	

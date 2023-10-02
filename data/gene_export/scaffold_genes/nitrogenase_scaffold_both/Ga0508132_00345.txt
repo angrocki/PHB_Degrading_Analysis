@@ -1,0 +1,21 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00345_10052_10555	CDS	null	DNA-binding response OmpR family regulator	10052	10555	+	
+3300049256 assembled Ga0508132_00345_10694_11074	CDS	null	hemoglobin	10694	11074	+	
+3300049256 assembled Ga0508132_00345_11078_11668	CDS	null	hypothetical protein	11078	11668	+	
+3300049256 assembled Ga0508132_00345_11753_12628	CDS	null	hypothetical protein	11753	12628	+	
+3300049256 assembled Ga0508132_00345_12633_13073	CDS	null	nitrogenase-associated protein	12633	13073	+	
+3300049256 assembled Ga0508132_00345_1291_1491	CDS	null	hypothetical protein	1291	1491	-	
+3300049256 assembled Ga0508132_00345_13095_13733	CDS	null	hypothetical protein	13095	13733	-	
+3300049256 assembled Ga0508132_00345_13945_15774	CDS	null	GTP-binding protein	13945	15774	-	
+3300049256 assembled Ga0508132_00345_1503_1967	CDS	null	probable nitrogen fixation protein	1503	1967	-	
+3300049256 assembled Ga0508132_00345_15851_16615	CDS	null	uncharacterized membrane protein YdjX (TVP38/TMEM64 family)	15851	16615	-	
+3300049256 assembled Ga0508132_00345_16615_17592	CDS	null	uncharacterized Fe-S cluster-containing radical SAM superfamily protein	16615	17592	-	
+3300049256 assembled Ga0508132_00345_17652_17771	CDS	null	selenide,water dikinase	17652	17771	-	
+3300049256 assembled Ga0508132_00345_1960_2448	CDS	null	nitrogen fixation protein NifX	1960	2448	-	
+3300049256 assembled Ga0508132_00345_2420_3802	CDS	null	nitrogenase molybdenum-iron protein NifN	2420	3802	-	
+3300049256 assembled Ga0508132_00345_2_475	CDS	null	nitrogen fixation protein NifQ	2	475	-	
+3300049256 assembled Ga0508132_00345_3810_5486	CDS	null	nitrogenase molybdenum-cofactor synthesis protein NifE	3810	5486	-	
+3300049256 assembled Ga0508132_00345_5619_7112	CDS	null	nitrogenase molybdenum-iron protein beta chain	5619	7112	-	
+3300049256 assembled Ga0508132_00345_634_939	CDS	null	Nif-specific ferredoxin III	634	939	-	
+3300049256 assembled Ga0508132_00345_7290_8747	CDS	null	nitrogenase molybdenum-iron protein alpha chain	7290	8747	-	
+3300049256 assembled Ga0508132_00345_8845_9723	CDS	null	nitrogenase iron protein NifH	8845	9723	-	

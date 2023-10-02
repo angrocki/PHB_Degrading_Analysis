@@ -1,0 +1,42 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00087_10632_11915	CDS	null	homocitrate synthase NifV	10632	11915	+	
+3300049256 assembled Ga0508132_00087_11945_12286	CDS	null	nitrogenase-stabilizing/protective protein	11945	12286	+	
+3300049256 assembled Ga0508132_00087_12311_13162	CDS	null	electron transfer flavoprotein beta subunit	12311	13162	+	
+3300049256 assembled Ga0508132_00087_13190_14299	CDS	null	electron transfer flavoprotein alpha subunit	13190	14299	+	
+3300049256 assembled Ga0508132_00087_14330_15634	CDS	null	electron transfer flavoprotein-quinone oxidoreductase	14330	15634	+	
+3300049256 assembled Ga0508132_00087_15665_15961	CDS	null	ferredoxin like protein	15665	15961	+	
+3300049256 assembled Ga0508132_00087_16164_16661	CDS	null	rubrerythrin	16164	16661	+	
+3300049256 assembled Ga0508132_00087_17002_18819	CDS	null	Nif-specific regulatory protein	17002	18819	+	
+3300049256 assembled Ga0508132_00087_1714_3189	CDS	null	starch synthase	1714	3189	-	
+3300049256 assembled Ga0508132_00087_18839_19255	CDS	null	nitrite reductase/ring-hydroxylating ferredoxin subunit	18839	19255	+	
+3300049256 assembled Ga0508132_00087_19411_20037	CDS	null	dethiobiotin synthetase	19411	20037	+	
+3300049256 assembled Ga0508132_00087_20045_20581	CDS	null	adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase	20045	20581	+	
+3300049256 assembled Ga0508132_00087_20625_21302	CDS	null	hypothetical protein	20625	21302	-	
+3300049256 assembled Ga0508132_00087_21740_22795	CDS	null	dihydroorotate dehydrogenase	21740	22795	-	
+3300049256 assembled Ga0508132_00087_22792_23205	CDS	null	uncharacterized protein (DUF952 family)	22792	23205	-	
+3300049256 assembled Ga0508132_00087_23219_24847	CDS	null	lysyl-tRNA synthetase class 1	23219	24847	-	
+3300049256 assembled Ga0508132_00087_25241_25984	CDS	null	uncharacterized membrane protein YoaT (DUF817 family)	25241	25984	+	
+3300049256 assembled Ga0508132_00087_26015_26398	CDS	null	DNA-binding transcriptional ArsR family regulator	26015	26398	+	
+3300049256 assembled Ga0508132_00087_26433_27074	CDS	null	7-carboxy-7-deazaguanine synthase (Cx14CxxC type)	26433	27074	-	
+3300049256 assembled Ga0508132_00087_27081_27809	CDS	null	7-cyano-7-deazaguanine synthase	27081	27809	-	
+3300049256 assembled Ga0508132_00087_27917_29197	CDS	null	enolase	27917	29197	+	
+3300049256 assembled Ga0508132_00087_29318_30487	CDS	null	hypothetical protein	29318	30487	-	
+3300049256 assembled Ga0508132_00087_2_1717	CDS	null	glycogen operon protein	2	1717	-	
+3300049256 assembled Ga0508132_00087_30648_30923	CDS	null	hypothetical protein	30648	30923	+	
+3300049256 assembled Ga0508132_00087_31100_31690	CDS	null	hypothetical protein	31100	31690	-	
+3300049256 assembled Ga0508132_00087_31806_33653	CDS	null	subfamily B ATP-binding cassette protein MsbA	31806	33653	+	
+3300049256 assembled Ga0508132_00087_3186_4409	CDS	null	glucose-1-phosphate adenylyltransferase	3186	4409	-	
+3300049256 assembled Ga0508132_00087_33780_34622	CDS	null	protein tyrosine phosphatase (PTP) superfamily phosphohydrolase (DUF442 family)	33780	34622	-	
+3300049256 assembled Ga0508132_00087_34636_34986	CDS	null	uncharacterized protein (DUF486 family)	34636	34986	-	
+3300049256 assembled Ga0508132_00087_35500_36570	CDS	null	ferrochelatase	35500	36570	-	
+3300049256 assembled Ga0508132_00087_36915_37742	CDS	null	hypothetical protein	36915	37742	-	
+3300049256 assembled Ga0508132_00087_37816_38316	CDS	null	signal peptidase II	37816	38316	+	
+3300049256 assembled Ga0508132_00087_38352_38831	CDS	null	hypothetical protein	38352	38831	+	
+3300049256 assembled Ga0508132_00087_39251_39688	CDS	null	hypothetical protein	39251	39688	+	
+3300049256 assembled Ga0508132_00087_39869_40117	CDS	null	hypothetical protein	39869	40117	+	
+3300049256 assembled Ga0508132_00087_40356_40432	tRNA	null	tRNA_Pro_CGG	40356	40432	+	
+3300049256 assembled Ga0508132_00087_40746_40880	CDS	null	hypothetical protein	40746	40880	-	
+3300049256 assembled Ga0508132_00087_40923_42236	CDS	null	phosphoribosylformylglycinamidine synthase	40923	42236	-	
+3300049256 assembled Ga0508132_00087_4648_6843	CDS	null	1,4-alpha-glucan branching enzyme	4648	6843	-	
+3300049256 assembled Ga0508132_00087_6966_9467	CDS	null	starch phosphorylase	6966	9467	-	
+3300049256 assembled Ga0508132_00087_9707_10399	CDS	null	Zn-dependent protease	9707	10399	+	

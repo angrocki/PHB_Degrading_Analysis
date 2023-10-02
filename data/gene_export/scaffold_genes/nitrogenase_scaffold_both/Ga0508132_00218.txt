@@ -1,0 +1,24 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00218_10242_11042	CDS	null	NAD+--dinitrogen-reductase ADP-D-ribosyltransferase	10242	11042	-	
+3300049256 assembled Ga0508132_00218_11046_12218	CDS	null	cysteine desulfurase	11046	12218	-	
+3300049256 assembled Ga0508132_00218_12373_12966	CDS	null	nitrogen fixation protein NifQ	12373	12966	-	
+3300049256 assembled Ga0508132_00218_12971_14602	CDS	null	Nif-specific regulatory protein	12971	14602	-	
+3300049256 assembled Ga0508132_00218_14878_15084	CDS	null	molybdopterin-binding protein	14878	15084	+	
+3300049256 assembled Ga0508132_00218_15262_15338	tRNA	null	tRNA_Arg_ACG	15262	15338	-	
+3300049256 assembled Ga0508132_00218_15649_16797	CDS	null	hypothetical protein	15649	16797	+	
+3300049256 assembled Ga0508132_00218_1634_3013	CDS	null	nitrogenase molybdenum-cofactor synthesis protein NifE	1634	3013	-	
+3300049256 assembled Ga0508132_00218_16856_17863	CDS	null	L-aminopeptidase/D-esterase-like protein	16856	17863	-	
+3300049256 assembled Ga0508132_00218_17908_19581	CDS	null	gamma-glutamyltranspeptidase/glutathione hydrolase	17908	19581	+	
+3300049256 assembled Ga0508132_00218_20179_20613	CDS	null	hypothetical protein	20179	20613	+	
+3300049256 assembled Ga0508132_00218_20746_20982	CDS	null	hypothetical protein	20746	20982	+	
+3300049256 assembled Ga0508132_00218_21021_22421	CDS	null	hypothetical protein	21021	22421	-	
+3300049256 assembled Ga0508132_00218_22574_23473	CDS	null	2-polyprenyl-6-methoxyphenol hydroxylase-like FAD-dependent oxidoreductase	22574	23473	-	
+3300049256 assembled Ga0508132_00218_3018_4544	CDS	null	nitrogenase molybdenum-iron protein beta chain	3018	4544	-	
+3300049256 assembled Ga0508132_00218_304_1632	CDS	null	nitrogenase molybdenum-iron protein NifN	304	1632	-	
+3300049256 assembled Ga0508132_00218_3_326	CDS	null	nitrogen fixation protein NifX	3	326	-	
+3300049256 assembled Ga0508132_00218_4555_6009	CDS	null	nitrogenase molybdenum-iron protein alpha chain	4555	6009	-	
+3300049256 assembled Ga0508132_00218_6036_7166	CDS	null	nitrogenase iron protein NifH	6036	7166	-	
+3300049256 assembled Ga0508132_00218_7202_8665	CDS	null	nitrogen fixation protein NifB	7202	8665	+	
+3300049256 assembled Ga0508132_00218_8746_9153	CDS	null	nitrogen fixation protein NifZ	8746	9153	+	
+3300049256 assembled Ga0508132_00218_9150_9356	CDS	null	nitrogen fixation protein NifT	9150	9356	+	
+3300049256 assembled Ga0508132_00218_9325_10242	CDS	null	ADP-ribosyl-[dinitrogen reductase] hydrolase	9325	10242	-	

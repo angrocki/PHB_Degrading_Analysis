@@ -1,0 +1,15 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00441_10313_11149	CDS	null	sulfonate transport system ATP-binding protein	10313	11149	-	
+3300049256 assembled Ga0508132_00441_11149_11907	CDS	null	sulfonate transport system permease protein	11149	11907	-	
+3300049256 assembled Ga0508132_00441_1152_3596	CDS	null	iron complex outermembrane receptor protein	1152	3596	-	
+3300049256 assembled Ga0508132_00441_11904_12662	CDS	null	sulfonate transport system permease protein	11904	12662	-	
+3300049256 assembled Ga0508132_00441_12659_13804	CDS	null	sulfonate transport system substrate-binding protein	12659	13804	-	
+3300049256 assembled Ga0508132_00441_14136_14237	CDS	null	hypothetical protein	14136	14237	+	
+3300049256 assembled Ga0508132_00441_14352_14663	CDS	null	transcriptional regulator of acetoin/glycerol metabolism	14352	14663	+	
+3300049256 assembled Ga0508132_00441_147_332	CDS	null	hypothetical protein	147	332	-	
+3300049256 assembled Ga0508132_00441_4293_5576	CDS	null	nitrogenase molybdenum-iron protein beta chain	4293	5576	-	
+3300049256 assembled Ga0508132_00441_5576_6937	CDS	null	nitrogenase molybdenum-iron protein alpha/beta subunit	5576	6937	-	
+3300049256 assembled Ga0508132_00441_581_871	CDS	null	hypothetical protein	581	871	+	
+3300049256 assembled Ga0508132_00441_6937_7809	CDS	null	nitrogenase iron protein NifH	6937	7809	-	
+3300049256 assembled Ga0508132_00441_7806_9053	CDS	null	MFS family permease	7806	9053	-	
+3300049256 assembled Ga0508132_00441_9061_10278	CDS	null	hypothetical protein	9061	10278	-	

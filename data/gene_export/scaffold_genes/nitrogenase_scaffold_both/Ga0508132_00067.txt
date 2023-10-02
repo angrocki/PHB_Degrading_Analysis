@@ -1,0 +1,45 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00067_10062_10922	CDS	null	branched-chain amino acid transport system permease protein	10062	10922	+	
+3300049256 assembled Ga0508132_00067_10924_12717	CDS	null	branched-chain amino acid transport system permease protein	10924	12717	+	
+3300049256 assembled Ga0508132_00067_12714_13430	CDS	null	branched-chain amino acid transport system ATP-binding protein	12714	13430	+	
+3300049256 assembled Ga0508132_00067_13572_16226	CDS	null	acetyltransferase	13572	16226	+	
+3300049256 assembled Ga0508132_00067_16280_17479	CDS	null	acetyl-CoA C-acetyltransferase	16280	17479	-	
+3300049256 assembled Ga0508132_00067_17483_19048	CDS	null	benzoate-CoA ligase family protein	17483	19048	-	
+3300049256 assembled Ga0508132_00067_19259_19711	CDS	null	ribosomal protein S18 acetylase RimI-like enzyme	19259	19711	+	
+3300049256 assembled Ga0508132_00067_1935_3638	CDS	null	ABC-type cobalamin/Fe3+-siderophores transport system ATPase subunit	1935	3638	+	
+3300049256 assembled Ga0508132_00067_19708_20151	CDS	null	Rrf2 family protein	19708	20151	+	
+3300049256 assembled Ga0508132_00067_20155_20871	CDS	null	acetoacetyl-CoA reductase/3-oxoacyl-[acyl-carrier protein] reductase	20155	20871	-	
+3300049256 assembled Ga0508132_00067_20878_21720	CDS	null	benzoyl-CoA reductase subunit D	20878	21720	-	
+3300049256 assembled Ga0508132_00067_21742_23034	CDS	null	benzoyl-CoA reductase subunit A	21742	23034	-	
+3300049256 assembled Ga0508132_00067_23049_24332	CDS	null	benzoyl-CoA reductase subunit B	23049	24332	-	
+3300049256 assembled Ga0508132_00067_24336_25517	CDS	null	benzoyl-CoA reductase subunit C	24336	25517	-	
+3300049256 assembled Ga0508132_00067_25502_26272	CDS	null	cyclohexa-1,5-dienecarbonyl-CoA hydratase	25502	26272	-	
+3300049256 assembled Ga0508132_00067_26269_27405	CDS	null	6-oxo-cyclohex-1-ene-carbonyl-CoA hydrolase	26269	27405	-	
+3300049256 assembled Ga0508132_00067_27440_28480	CDS	null	6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase	27440	28480	-	
+3300049256 assembled Ga0508132_00067_28492_28722	CDS	null	hypothetical protein	28492	28722	+	
+3300049256 assembled Ga0508132_00067_28904_30112	CDS	null	benzoate membrane transport protein	28904	30112	-	
+3300049256 assembled Ga0508132_00067_2_289	CDS	null	transposase	2	289	+	
+3300049256 assembled Ga0508132_00067_30208_31665	CDS	null	DNA-binding transcriptional MocR family regulator	30208	31665	+	
+3300049256 assembled Ga0508132_00067_31705_31845	CDS	null	hypothetical protein	31705	31845	-	
+3300049256 assembled Ga0508132_00067_32007_32807	CDS	null	iron complex transport system ATP-binding protein	32007	32807	-	
+3300049256 assembled Ga0508132_00067_32800_33858	CDS	null	iron complex transport system permease protein	32800	33858	-	
+3300049256 assembled Ga0508132_00067_33855_35003	CDS	null	ABC-type Fe3+-hydroxamate transport system substrate-binding protein	33855	35003	-	
+3300049256 assembled Ga0508132_00067_346_1431	CDS	null	transposase	346	1431	+	
+3300049256 assembled Ga0508132_00067_35068_37377	CDS	null	iron complex outermembrane receptor protein	35068	37377	-	
+3300049256 assembled Ga0508132_00067_37745_38350	CDS	null	CRP-like cAMP-binding protein	37745	38350	-	
+3300049256 assembled Ga0508132_00067_38481_38840	CDS	null	DNA invertase Pin-like site-specific DNA recombinase	38481	38840	+	
+3300049256 assembled Ga0508132_00067_39032_39123	tRNA	null	tRNA_Ser_GCT	39032	39123	-	
+3300049256 assembled Ga0508132_00067_39180_39392	CDS	null	hypothetical protein	39180	39392	-	
+3300049256 assembled Ga0508132_00067_39524_42424	CDS	null	pyruvate,orthophosphate dikinase	39524	42424	+	
+3300049256 assembled Ga0508132_00067_3984_4172	CDS	null	hypothetical protein	3984	4172	+	
+3300049256 assembled Ga0508132_00067_42499_43497	CDS	null	LAO/AO transport system kinase	42499	43497	+	
+3300049256 assembled Ga0508132_00067_4291_4470	CDS	null	uncharacterized membrane protein YfcA	4291	4470	-	
+3300049256 assembled Ga0508132_00067_43656_44753	CDS	null	spore germination cell wall hydrolase CwlJ-like protein	43656	44753	+	
+3300049256 assembled Ga0508132_00067_44932_46302	CDS	null	nitrogenase molybdenum-iron protein beta chain	44932	46302	-	
+3300049256 assembled Ga0508132_00067_46318_47823	CDS	null	nitrogenase molybdenum-iron protein alpha chain	46318	47823	-	
+3300049256 assembled Ga0508132_00067_4684_5871	CDS	null	glutaryl-CoA dehydrogenase	4684	5871	+	
+3300049256 assembled Ga0508132_00067_47839_49134	CDS	null	O-acetylhomoserine (thiol)-lyase	47839	49134	-	
+3300049256 assembled Ga0508132_00067_49674_49748	tRNA	null	tRNA_Val_GAC	49674	49748	-	
+3300049256 assembled Ga0508132_00067_6025_6960	CDS	null	glyoxylase-like metal-dependent hydrolase (beta-lactamase superfamily II)	6025	6960	+	
+3300049256 assembled Ga0508132_00067_7054_8484	CDS	null	predicted porin	7054	8484	+	
+3300049256 assembled Ga0508132_00067_8714_9985	CDS	null	branched-chain amino acid transport system substrate-binding protein	8714	9985	+	

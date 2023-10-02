@@ -1,0 +1,6 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_01414_1_111	CDS	null	hypothetical protein	1	111	+	
+3300049256 assembled Ga0508132_01414_2155_3141	CDS	null	sulfonate transport system substrate-binding protein	2155	3141	+	
+3300049256 assembled Ga0508132_01414_217_1821	CDS	null	choline dehydrogenase	217	1821	-	
+3300049256 assembled Ga0508132_01414_3302_4552	CDS	null	nitrogenase molybdenum-iron protein beta chain	3302	4552	-	
+3300049256 assembled Ga0508132_01414_4549_4680	CDS	null	hypothetical protein	4549	4680	-	

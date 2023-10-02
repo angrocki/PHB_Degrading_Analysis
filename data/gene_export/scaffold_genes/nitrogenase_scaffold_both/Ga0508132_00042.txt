@@ -1,0 +1,76 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00042_1070_1900	CDS	null	glutaconate CoA-transferase subunit A	1070	1900	-	
+3300049256 assembled Ga0508132_00042_11131_12129	CDS	null	RND family efflux transporter MFP subunit	11131	12129	-	
+3300049256 assembled Ga0508132_00042_12131_12472	CDS	null	DNA-binding transcriptional ArsR family regulator	12131	12472	-	
+3300049256 assembled Ga0508132_00042_12555_12758	CDS	null	hypothetical protein	12555	12758	+	
+3300049256 assembled Ga0508132_00042_12907_13302	CDS	null	predicted Fe-Mo cluster-binding NifX family protein	12907	13302	-	
+3300049256 assembled Ga0508132_00042_13475_14008	CDS	null	ubiquinol-cytochrome c reductase iron-sulfur subunit	13475	14008	-	
+3300049256 assembled Ga0508132_00042_14099_14686	CDS	null	DNA-binding PadR family transcriptional regulator	14099	14686	-	
+3300049256 assembled Ga0508132_00042_14919_15440	CDS	null	uncharacterized membrane protein YedE/YeeE	14919	15440	+	
+3300049256 assembled Ga0508132_00042_15458_16075	CDS	null	hypothetical protein	15458	16075	+	
+3300049256 assembled Ga0508132_00042_16088_16288	CDS	null	hypothetical protein	16088	16288	+	
+3300049256 assembled Ga0508132_00042_16402_17844	CDS	null	cytochrome c oxidase accessory protein FixG	16402	17844	+	
+3300049256 assembled Ga0508132_00042_17958_18482	CDS	null	alkylhydroperoxidase family enzyme	17958	18482	-	
+3300049256 assembled Ga0508132_00042_18520_19284	CDS	null	uncharacterized membrane protein YfcA	18520	19284	-	
+3300049256 assembled Ga0508132_00042_19449_21734	CDS	null	arylsulfatase	19449	21734	+	
+3300049256 assembled Ga0508132_00042_1995_2567	CDS	null	molybdenum cofactor biosynthesis protein B	1995	2567	-	
+3300049256 assembled Ga0508132_00042_21694_21969	CDS	null	hypothetical protein	21694	21969	+	
+3300049256 assembled Ga0508132_00042_21906_22559	CDS	null	2-hydroxychromene-2-carboxylate isomerase	21906	22559	-	
+3300049256 assembled Ga0508132_00042_22647_22769	CDS	null	hypothetical protein	22647	22769	-	
+3300049256 assembled Ga0508132_00042_22821_24767	CDS	null	alkyl sulfatase BDS1-like metallo-beta-lactamase superfamily hydrolase	22821	24767	+	
+3300049256 assembled Ga0508132_00042_24870_25169	CDS	null	hypothetical protein	24870	25169	+	
+3300049256 assembled Ga0508132_00042_25184_26371	CDS	null	cytochrome P450	25184	26371	-	
+3300049256 assembled Ga0508132_00042_26459_27316	CDS	null	protocatechuate 4,5-dioxygenase beta chain	26459	27316	-	
+3300049256 assembled Ga0508132_00042_2681_3598	CDS	null	predicted metalloprotease	2681	3598	-	
+3300049256 assembled Ga0508132_00042_27318_27692	CDS	null	protocatechuate 4,5-dioxygenase alpha chain	27318	27692	-	
+3300049256 assembled Ga0508132_00042_27854_28537	CDS	null	8-oxo-dGTP diphosphatase	27854	28537	-	
+3300049256 assembled Ga0508132_00042_28604_28810	CDS	null	hypothetical protein	28604	28810	-	
+3300049256 assembled Ga0508132_00042_28885_30684	CDS	null	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II	28885	30684	+	
+3300049256 assembled Ga0508132_00042_30830_31675	CDS	null	molybdenum transport protein	30830	31675	-	
+3300049256 assembled Ga0508132_00042_31920_32540	CDS	null	nucleoside-triphosphatase THEP1	31920	32540	+	
+3300049256 assembled Ga0508132_00042_321_1073	CDS	null	glutaconate CoA-transferase subunit B	321	1073	-	
+3300049256 assembled Ga0508132_00042_32522_32950	CDS	null	nitrogenase-associated protein	32522	32950	+	
+3300049256 assembled Ga0508132_00042_32963_33580	CDS	null	SAM-dependent methyltransferase	32963	33580	-	
+3300049256 assembled Ga0508132_00042_33774_34901	CDS	null	sulfide:quinone oxidoreductase	33774	34901	+	
+3300049256 assembled Ga0508132_00042_34953_35327	CDS	null	rhodanese-related sulfurtransferase	34953	35327	+	
+3300049256 assembled Ga0508132_00042_35336_35767	CDS	null	ArsR family transcriptional regulator	35336	35767	-	
+3300049256 assembled Ga0508132_00042_35955_37424	CDS	null	uroporphyrin-III C-methyltransferase/precorrin-2 dehydrogenase/sirohydrochlorin ferrochelatase	35955	37424	-	
+3300049256 assembled Ga0508132_00042_3598_3804	CDS	null	hypothetical protein	3598	3804	-	
+3300049256 assembled Ga0508132_00042_37429_38904	CDS	null	cobyrinic acid a,c-diamide synthase	37429	38904	-	
+3300049256 assembled Ga0508132_00042_38901_40127	CDS	null	molybdopterin-containing oxidoreductase family membrane subunit	38901	40127	-	
+3300049256 assembled Ga0508132_00042_3_161	CDS	null	hypothetical protein	3	161	+	
+3300049256 assembled Ga0508132_00042_40145_40912	CDS	null	molybdopterin-containing oxidoreductase family iron-sulfur binding subunit	40145	40912	-	
+3300049256 assembled Ga0508132_00042_4076_5107	CDS	null	modification methylase	4076	5107	+	
+3300049256 assembled Ga0508132_00042_40909_41391	CDS	null	predicted CXXCH cytochrome family protein	40909	41391	-	
+3300049256 assembled Ga0508132_00042_41394_43289	CDS	null	NADPH-dependent glutamate synthase beta subunit-like oxidoreductase	41394	43289	-	
+3300049256 assembled Ga0508132_00042_43343_44920	CDS	null	Fe-S oxidoreductase	43343	44920	-	
+3300049256 assembled Ga0508132_00042_44925_45644	CDS	null	nitrate reductase gamma subunit	44925	45644	-	
+3300049256 assembled Ga0508132_00042_45694_46029	CDS	null	tRNA 2-thiouridine synthesizing protein E	45694	46029	-	
+3300049256 assembled Ga0508132_00042_46070_46378	CDS	null	tRNA 2-thiouridine synthesizing protein B	46070	46378	-	
+3300049256 assembled Ga0508132_00042_46389_46799	CDS	null	tRNA 2-thiouridine synthesizing protein C	46389	46799	-	
+3300049256 assembled Ga0508132_00042_46805_47197	CDS	null	tRNA 2-thiouridine synthesizing protein D	46805	47197	-	
+3300049256 assembled Ga0508132_00042_47224_48303	CDS	null	sulfite reductase beta subunit	47224	48303	-	
+3300049256 assembled Ga0508132_00042_48405_49718	CDS	null	sulfite reductase alpha subunit	48405	49718	-	
+3300049256 assembled Ga0508132_00042_50062_50262	CDS	null	hypothetical protein	50062	50262	+	
+3300049256 assembled Ga0508132_00042_50259_50465	CDS	null	hypothetical protein	50259	50465	+	
+3300049256 assembled Ga0508132_00042_50447_50998	CDS	null	peroxiredoxin family protein	50447	50998	+	
+3300049256 assembled Ga0508132_00042_51040_51267	CDS	null	tRNA 2-thiouridine synthesizing protein A	51040	51267	+	
+3300049256 assembled Ga0508132_00042_5119_5478	CDS	null	cytochrome b involved in lipid metabolism	5119	5478	-	
+3300049256 assembled Ga0508132_00042_51437_52294	CDS	null	pimeloyl-ACP methyl ester carboxylesterase	51437	52294	+	
+3300049256 assembled Ga0508132_00042_52429_53130	CDS	null	branched-chain amino acid transport system ATP-binding protein	52429	53130	-	
+3300049256 assembled Ga0508132_00042_53123_53857	CDS	null	branched-chain amino acid transport system ATP-binding protein/urea transport system ATP-binding protein	53123	53857	-	
+3300049256 assembled Ga0508132_00042_53844_55040	CDS	null	branched-chain amino acid transport system permease protein	53844	55040	-	
+3300049256 assembled Ga0508132_00042_5475_6740	CDS	null	predicted ferric reductase	5475	6740	-	
+3300049256 assembled Ga0508132_00042_55051_56274	CDS	null	branched-chain amino acid transport system substrate-binding protein	55051	56274	-	
+3300049256 assembled Ga0508132_00042_56279_57136	CDS	null	branched-chain amino acid transport system permease protein	56279	57136	-	
+3300049256 assembled Ga0508132_00042_57173_58768	CDS	null	amidase	57173	58768	-	
+3300049256 assembled Ga0508132_00042_58853_60028	CDS	null	ABC-type branched-subunit amino acid transport system substrate-binding protein	58853	60028	-	
+3300049256 assembled Ga0508132_00042_60101_60643	CDS	null	DNA-binding MarR family transcriptional regulator	60101	60643	+	
+3300049256 assembled Ga0508132_00042_60792_61916	CDS	null	acyl-CoA dehydrogenase	60792	61916	+	
+3300049256 assembled Ga0508132_00042_61920_62492	CDS	null	alpha-ribazole phosphatase	61920	62492	-	
+3300049256 assembled Ga0508132_00042_62668_63399	CDS	null	CRP-like cAMP-binding protein	62668	63399	+	
+3300049256 assembled Ga0508132_00042_63446_64186	CDS	null	hypothetical protein	63446	64186	-	
+3300049256 assembled Ga0508132_00042_64539_66653	CDS	null	light-regulated signal transduction histidine kinase (bacteriophytochrome)	64539	66653	+	
+3300049256 assembled Ga0508132_00042_6745_7068	CDS	null	hypothetical protein	6745	7068	-	
+3300049256 assembled Ga0508132_00042_7198_7851	CDS	null	protein-disulfide isomerase	7198	7851	-	
+3300049256 assembled Ga0508132_00042_7913_11134	CDS	null	multidrug efflux pump subunit AcrB	7913	11134	-	

@@ -1,0 +1,13 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00909_1155_1619	CDS	null	probable nitrogen fixation protein	1155	1619	+	
+3300049256 assembled Ga0508132_00909_1637_1843	CDS	null	hypothetical protein	1637	1843	+	
+3300049256 assembled Ga0508132_00909_1903_2214	CDS	null	Nif-specific ferredoxin III	1903	2214	+	
+3300049256 assembled Ga0508132_00909_2232_2939	CDS	null	nitrogen fixation protein NifQ	2232	2939	+	
+3300049256 assembled Ga0508132_00909_22_699	CDS	null	nitrogenase molybdenum-iron protein NifN	22	699	+	
+3300049256 assembled Ga0508132_00909_3291_3611	CDS	null	iron-sulfur cluster assembly protein	3291	3611	+	
+3300049256 assembled Ga0508132_00909_3639_4628	CDS	null	NifU-like protein	3639	4628	+	
+3300049256 assembled Ga0508132_00909_4625_5857	CDS	null	cysteine desulfurase	4625	5857	+	
+3300049256 assembled Ga0508132_00909_5796_7043	CDS	null	homocitrate synthase NifV	5796	7043	+	
+3300049256 assembled Ga0508132_00909_7072_7422	CDS	null	nitrogenase-stabilizing/protective protein	7072	7422	+	
+3300049256 assembled Ga0508132_00909_7335_7706	CDS	null	hypothetical protein	7335	7706	-	
+3300049256 assembled Ga0508132_00909_755_1153	CDS	null	nitrogen fixation protein NifX	755	1153	+	

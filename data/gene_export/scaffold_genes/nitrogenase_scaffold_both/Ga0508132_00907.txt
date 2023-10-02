@@ -1,0 +1,10 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00907_1460_2050	CDS	null	hypothetical protein	1460	2050	-	
+3300049256 assembled Ga0508132_00907_1_681	CDS	null	NAD+--dinitrogen-reductase ADP-D-ribosyltransferase	1	681	+	
+3300049256 assembled Ga0508132_00907_2047_2787	CDS	null	Fe-only nitrogenase accessory protein AnfO	2047	2787	-	
+3300049256 assembled Ga0508132_00907_2822_4207	CDS	null	nitrogenase molybdenum-iron protein beta chain	2822	4207	-	
+3300049256 assembled Ga0508132_00907_4220_4660	CDS	null	nitrogenase delta subunit	4220	4660	-	
+3300049256 assembled Ga0508132_00907_4673_6241	CDS	null	nitrogenase molybdenum-iron protein alpha chain	4673	6241	-	
+3300049256 assembled Ga0508132_00907_6290_7117	CDS	null	nitrogenase iron protein NifH	6290	7117	-	
+3300049256 assembled Ga0508132_00907_7638_7790	CDS	null	Nif-specific regulatory protein	7638	7790	-	
+3300049256 assembled Ga0508132_00907_872_1402	CDS	null	nitroimidazol reductase NimA-like FMN-containing flavoprotein (pyridoxamine 5'-phosphate oxidase superfamily)	872	1402	-	

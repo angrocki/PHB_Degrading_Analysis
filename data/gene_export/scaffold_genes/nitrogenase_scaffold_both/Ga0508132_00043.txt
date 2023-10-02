@@ -1,0 +1,69 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00043_10070_10618	CDS	null	nitroreductase	10070	10618	-	
+3300049256 assembled Ga0508132_00043_10621_11664	CDS	null	ABC-type lipoprotein export system ATPase subunit/uncharacterized protein YjiS (DUF1127 family)	10621	11664	-	
+3300049256 assembled Ga0508132_00043_11654_12358	CDS	null	Ni2+-binding GTPase involved in maturation of urease and hydrogenase	11654	12358	-	
+3300049256 assembled Ga0508132_00043_12349_13452	CDS	null	ABC-type Fe3+ transport system substrate-binding protein	12349	13452	-	
+3300049256 assembled Ga0508132_00043_1309_2319	CDS	null	ABC-type Fe3+ transport system substrate-binding protein	1309	2319	+	
+3300049256 assembled Ga0508132_00043_13600_14073	CDS	null	nitrogen fixation protein NifX	13600	14073	-	
+3300049256 assembled Ga0508132_00043_14067_15446	CDS	null	nitrogenase molybdenum-iron protein NifN	14067	15446	-	
+3300049256 assembled Ga0508132_00043_15449_16834	CDS	null	nitrogenase molybdenum-cofactor synthesis protein NifE	15449	16834	-	
+3300049256 assembled Ga0508132_00043_16906_17127	CDS	null	hypothetical protein	16906	17127	-	
+3300049256 assembled Ga0508132_00043_17440_19053	CDS	null	Nif-specific regulatory protein	17440	19053	+	
+3300049256 assembled Ga0508132_00043_19050_19427	CDS	null	hypothetical protein	19050	19427	+	
+3300049256 assembled Ga0508132_00043_19471_19668	CDS	null	predicted ribosomally synthesized peptide with nif11-like leader	19471	19668	-	
+3300049256 assembled Ga0508132_00043_195_1307	CDS	null	iron complex transport system substrate-binding protein	195	1307	+	
+3300049256 assembled Ga0508132_00043_19735_20199	CDS	null	lactoylglutathione lyase	19735	20199	-	
+3300049256 assembled Ga0508132_00043_20196_20573	CDS	null	predicted Fe-Mo cluster-binding NifX family protein	20196	20573	-	
+3300049256 assembled Ga0508132_00043_20948_22360	CDS	null	nitrogenase molybdenum-iron protein alpha chain	20948	22360	+	
+3300049256 assembled Ga0508132_00043_22363_22698	CDS	null	nitrogenase delta subunit	22363	22698	+	
+3300049256 assembled Ga0508132_00043_22802_24190	CDS	null	nitrogenase molybdenum-iron protein beta chain	22802	24190	+	
+3300049256 assembled Ga0508132_00043_2316_3017	CDS	null	Ni2+-binding GTPase involved in maturation of urease and hydrogenase	2316	3017	+	
+3300049256 assembled Ga0508132_00043_24341_25234	CDS	null	hypothetical protein	24341	25234	+	
+3300049256 assembled Ga0508132_00043_25264_25749	CDS	null	nitrogen fixation protein NifX	25264	25749	+	
+3300049256 assembled Ga0508132_00043_25825_26649	CDS	null	phosphonate transport system permease protein	25825	26649	-	
+3300049256 assembled Ga0508132_00043_26649_27554	CDS	null	phosphonate transport system substrate-binding protein	26649	27554	-	
+3300049256 assembled Ga0508132_00043_27551_28507	CDS	null	phosphonate transport system ATP-binding protein	27551	28507	-	
+3300049256 assembled Ga0508132_00043_28631_29155	CDS	null	hypothetical protein	28631	29155	-	
+3300049256 assembled Ga0508132_00043_29291_29491	CDS	null	hypothetical protein	29291	29491	-	
+3300049256 assembled Ga0508132_00043_29479_29736	CDS	null	tRNA(fMet)-specific endonuclease VapC	29479	29736	+	
+3300049256 assembled Ga0508132_00043_29984_30059	tRNA	null	tRNA_Lys_TTT	29984	30059	-	
+3300049256 assembled Ga0508132_00043_3010_3990	CDS	null	ABC-type lipoprotein export system ATPase subunit	3010	3990	+	
+3300049256 assembled Ga0508132_00043_30217_30525	CDS	null	hypothetical protein	30217	30525	-	
+3300049256 assembled Ga0508132_00043_31026_31814	CDS	null	segregation and condensation protein B	31026	31814	+	
+3300049256 assembled Ga0508132_00043_32138_32428	CDS	null	sec-independent protein translocase protein TatA	32138	32428	+	
+3300049256 assembled Ga0508132_00043_32468_33118	CDS	null	sec-independent protein translocase protein TatB	32468	33118	+	
+3300049256 assembled Ga0508132_00043_33128_33946	CDS	null	sec-independent protein translocase protein TatC	33128	33946	+	
+3300049256 assembled Ga0508132_00043_34285_34896	CDS	null	uncharacterized protein YkwD	34285	34896	+	
+3300049256 assembled Ga0508132_00043_35113_36543	CDS	null	predicted transcriptional regulator/transcriptional regulator with XRE-family HTH domain	35113	36543	-	
+3300049256 assembled Ga0508132_00043_36675_36869	CDS	null	hypothetical protein	36675	36869	+	
+3300049256 assembled Ga0508132_00043_37041_37661	CDS	null	pyruvate formate lyase activating enzyme	37041	37661	-	
+3300049256 assembled Ga0508132_00043_37716_37919	CDS	null	hypothetical protein	37716	37919	-	
+3300049256 assembled Ga0508132_00043_37946_40003	CDS	null	ribonucleoside-triphosphate reductase	37946	40003	-	
+3300049256 assembled Ga0508132_00043_40531_40923	CDS	null	acyl-CoA hydrolase	40531	40923	+	
+3300049256 assembled Ga0508132_00043_40973_42526	CDS	null	2-methylcitrate dehydratase	40973	42526	+	
+3300049256 assembled Ga0508132_00043_4236_5282	CDS	null	iron complex transport system substrate-binding protein	4236	5282	+	
+3300049256 assembled Ga0508132_00043_42538_43731	CDS	null	2-methylcitrate synthase	42538	43731	+	
+3300049256 assembled Ga0508132_00043_43742_44650	CDS	null	methylisocitrate lyase	43742	44650	+	
+3300049256 assembled Ga0508132_00043_45005_47335	CDS	null	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	45005	47335	+	
+3300049256 assembled Ga0508132_00043_47704_49146	CDS	null	porin	47704	49146	+	
+3300049256 assembled Ga0508132_00043_49176_50246	CDS	null	dCTP deaminase	49176	50246	-	
+3300049256 assembled Ga0508132_00043_50454_51266	CDS	null	hypothetical protein	50454	51266	-	
+3300049256 assembled Ga0508132_00043_51273_52304	CDS	null	cyclic pyranopterin phosphate synthase	51273	52304	-	
+3300049256 assembled Ga0508132_00043_52549_53109	CDS	null	nitroreductase	52549	53109	+	
+3300049256 assembled Ga0508132_00043_5279_6358	CDS	null	iron complex transport system permease protein	5279	6358	+	
+3300049256 assembled Ga0508132_00043_53134_53979	CDS	null	L-lactate dehydrogenase complex protein LldE	53134	53979	-	
+3300049256 assembled Ga0508132_00043_54134_55042	CDS	null	DNA-binding transcriptional LysR family regulator	54134	55042	-	
+3300049256 assembled Ga0508132_00043_55321_56766	CDS	null	glycolate oxidase	55321	56766	+	
+3300049256 assembled Ga0508132_00043_56759_57982	CDS	null	glycolate oxidase FAD binding subunit	56759	57982	+	
+3300049256 assembled Ga0508132_00043_57987_59345	CDS	null	glycolate oxidase iron-sulfur subunit	57987	59345	+	
+3300049256 assembled Ga0508132_00043_59455_60978	CDS	null	hypothetical protein	59455	60978	+	
+3300049256 assembled Ga0508132_00043_61186_61680	CDS	null	DNA repair exonuclease SbcCD ATPase subunit	61186	61680	-	
+3300049256 assembled Ga0508132_00043_61823_62878	CDS	null	N-acetyl-gamma-glutamyl-phosphate reductase	61823	62878	-	
+3300049256 assembled Ga0508132_00043_63023_63517	CDS	null	small subunit ribosomal protein S9	63023	63517	-	
+3300049256 assembled Ga0508132_00043_63517_64029	CDS	null	large subunit ribosomal protein L13	63517	64029	-	
+3300049256 assembled Ga0508132_00043_6411_7136	CDS	null	iron complex transport system ATP-binding protein	6411	7136	+	
+3300049256 assembled Ga0508132_00043_64172_64621	CDS	null	uncharacterized protein (TIGR00369 family)	64172	64621	-	
+3300049256 assembled Ga0508132_00043_64695_65300	CDS	null	hypothetical protein	64695	65300	+	
+3300049256 assembled Ga0508132_00043_65413_66603	CDS	null	aromatic-L-amino-acid decarboxylase	65413	66603	-	
+3300049256 assembled Ga0508132_00043_7306_9624	CDS	null	iron complex outermembrane receptor protein	7306	9624	+	
+3300049256 assembled Ga0508132_00043_9696_9908	CDS	null	hypothetical protein	9696	9908	-	

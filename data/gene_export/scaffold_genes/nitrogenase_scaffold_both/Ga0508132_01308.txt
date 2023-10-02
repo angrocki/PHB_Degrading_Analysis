@@ -1,0 +1,7 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_01308_1028_2017	CDS	null	NifU-like protein	1028	2017	+	
+3300049256 assembled Ga0508132_01308_13_318	CDS	null	nitrogen fixation protein NifQ	13	318	+	
+3300049256 assembled Ga0508132_01308_2014_3246	CDS	null	cysteine desulfurase	2014	3246	+	
+3300049256 assembled Ga0508132_01308_3185_4432	CDS	null	homocitrate synthase NifV	3185	4432	+	
+3300049256 assembled Ga0508132_01308_4461_4811	CDS	null	nitrogenase-stabilizing/protective protein	4461	4811	+	
+3300049256 assembled Ga0508132_01308_680_1000	CDS	null	iron-sulfur cluster assembly protein	680	1000	+	

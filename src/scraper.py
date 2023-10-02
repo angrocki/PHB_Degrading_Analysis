@@ -8,10 +8,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from pynput.keyboard import Key, Controller
 from progressbar import ProgressBar
 
+CSV_NAME = "nitrogenase_scaffold_both"
 
 keyboard = Controller()
-
-
 def export_current_scaffold():
     # click on select all button
     try:
@@ -35,14 +34,14 @@ def move_exported_file(scaffold):
     while not os.path.exists('/Users/anmolsandhu/Downloads/exportdata.txt'):
         sleep(0.1)
     sleep(0.5)
-    os.rename('/Users/anmolsandhu/Downloads/exportdata.txt', f'../data/gene_export/scaffold_genes/{scaffold}.txt')
+    os.rename('/Users/anmolsandhu/Downloads/exportdata.txt', f'../data/gene_export/scaffold_genes/{CSV_NAME}/{scaffold}.txt')
 
 
 # Read CSV file into a DataFrame
-df = pd.read_csv('../data/Search/depolymerase_scaffold_both.csv')
+df = pd.read_csv(f'../data/Search/{CSV_NAME}.csv')
 
 # add first column of df to scaffolds list if scaffold gene count > 2
-scaffolds = [x.split(" ")[-1] for _, x in df.iloc[39:].iterrows() if x["Scaffold Gene Count"] > 2]
+scaffolds = [x["Scaffold ID"].split(" ")[-1] for _, x in df.iloc[0:].iterrows() if x["Scaffold Gene Count"] > 2]
 
 # driver = webdriver.Chrome(ChromeDriverManager().install())
 options = Options()
@@ -63,10 +62,7 @@ pbar = ProgressBar()
 for scaffold in pbar(scaffolds):
     driver.get("https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaScaffoldDetail&page=metaScaffoldGenes&taxon_oid=3300049256&scaffold_oid=" + scaffold)
     # wait till element is loaded
-    try:
-        web_driver_wait.until(lambda driver: driver.find_element("xpath", "//*[@id='genelist1']"))
-    except:
-        print(scaffold)
+    sleep(3)
     out = export_current_scaffold()
     if out == "err":
         continue

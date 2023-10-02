@@ -1,0 +1,12 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00539_10740_11609	CDS	null	nitrogenase iron protein NifH	10740	11609	-	
+3300049256 assembled Ga0508132_00539_11648_12544	CDS	null	nitrogen fixation protein NifB	11648	12544	-	
+3300049256 assembled Ga0508132_00539_1_537	CDS	null	peptide/nickel transport system permease protein	1	537	+	
+3300049256 assembled Ga0508132_00539_2217_3107	CDS	null	DNA-binding transcriptional LysR family regulator	2217	3107	-	
+3300049256 assembled Ga0508132_00539_3334_4935	CDS	null	peptide/nickel transport system substrate-binding protein	3334	4935	+	
+3300049256 assembled Ga0508132_00539_4932_5654	CDS	null	nicotinamidase-related amidase	4932	5654	+	
+3300049256 assembled Ga0508132_00539_534_2156	CDS	null	peptide/nickel transport system ATP-binding protein	534	2156	+	
+3300049256 assembled Ga0508132_00539_5651_6136	CDS	null	hypothetical protein	5651	6136	+	
+3300049256 assembled Ga0508132_00539_6174_7478	CDS	null	glycine/D-amino acid oxidase-like deaminating enzyme	6174	7478	-	
+3300049256 assembled Ga0508132_00539_7772_9154	CDS	null	nitrogenase molybdenum-iron protein beta chain	7772	9154	-	
+3300049256 assembled Ga0508132_00539_9166_10674	CDS	null	nitrogenase molybdenum-iron protein alpha chain	9166	10674	-	

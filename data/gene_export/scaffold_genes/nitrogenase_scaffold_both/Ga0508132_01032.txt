@@ -1,0 +1,11 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_01032_1349_1744	CDS	null	nitrogenase-associated protein	1349	1744	+	
+3300049256 assembled Ga0508132_01032_1751_2365	CDS	null	cyclopropane fatty-acyl-phospholipid synthase-like methyltransferase	1751	2365	-	
+3300049256 assembled Ga0508132_01032_2559_3686	CDS	null	sulfide:quinone oxidoreductase	2559	3686	+	
+3300049256 assembled Ga0508132_01032_3731_4105	CDS	null	rhodanese-related sulfurtransferase	3731	4105	+	
+3300049256 assembled Ga0508132_01032_3_497	CDS	null	molybdenum transport protein	3	497	-	
+3300049256 assembled Ga0508132_01032_4118_4546	CDS	null	ArsR family transcriptional regulator	4118	4546	-	
+3300049256 assembled Ga0508132_01032_4764_5657	CDS	null	pimeloyl-ACP methyl ester carboxylesterase	4764	5657	+	
+3300049256 assembled Ga0508132_01032_5777_6478	CDS	null	branched-chain amino acid transport system ATP-binding protein	5777	6478	-	
+3300049256 assembled Ga0508132_01032_6471_6818	CDS	null	branched-chain amino acid transport system ATP-binding protein/urea transport system ATP-binding protein	6471	6818	-	
+3300049256 assembled Ga0508132_01032_744_1334	CDS	null	nucleoside-triphosphatase THEP1	744	1334	+	

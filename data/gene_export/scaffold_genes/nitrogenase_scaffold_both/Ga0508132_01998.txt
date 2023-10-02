@@ -1,0 +1,5 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_01998_1549_2724	CDS	null	YVTN family beta-propeller protein	1549	2724	-	
+3300049256 assembled Ga0508132_01998_2745_3071	CDS	null	nitrogenase molybdenum-iron protein beta chain	2745	3071	-	
+3300049256 assembled Ga0508132_01998_294_1304	CDS	null	hypothetical protein	294	1304	-	
+3300049256 assembled Ga0508132_01998_3_293	CDS	null	hypothetical protein	3	293	-	

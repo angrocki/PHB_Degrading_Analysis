@@ -1,0 +1,26 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00224_10878_11468	CDS	null	nucleoside-triphosphatase THEP1	10878	11468	+	
+3300049256 assembled Ga0508132_00224_11483_11878	CDS	null	nitrogenase-associated protein	11483	11878	+	
+3300049256 assembled Ga0508132_00224_11885_12499	CDS	null	cyclopropane fatty-acyl-phospholipid synthase-like methyltransferase	11885	12499	-	
+3300049256 assembled Ga0508132_00224_12693_13820	CDS	null	sulfide:quinone oxidoreductase	12693	13820	+	
+3300049256 assembled Ga0508132_00224_13865_14239	CDS	null	rhodanese-related sulfurtransferase	13865	14239	+	
+3300049256 assembled Ga0508132_00224_14252_14680	CDS	null	ArsR family transcriptional regulator	14252	14680	-	
+3300049256 assembled Ga0508132_00224_14898_15791	CDS	null	pimeloyl-ACP methyl ester carboxylesterase	14898	15791	+	
+3300049256 assembled Ga0508132_00224_15911_16612	CDS	null	branched-chain amino acid transport system ATP-binding protein	15911	16612	-	
+3300049256 assembled Ga0508132_00224_16605_17339	CDS	null	branched-chain amino acid transport system ATP-binding protein/urea transport system ATP-binding protein	16605	17339	-	
+3300049256 assembled Ga0508132_00224_17326_18381	CDS	null	branched-chain amino acid transport system permease protein	17326	18381	-	
+3300049256 assembled Ga0508132_00224_18728_19951	CDS	null	branched-chain amino acid transport system substrate-binding protein	18728	19951	-	
+3300049256 assembled Ga0508132_00224_19956_20813	CDS	null	branched-chain amino acid transport system permease protein	19956	20813	-	
+3300049256 assembled Ga0508132_00224_20846_22366	CDS	null	amidase	20846	22366	-	
+3300049256 assembled Ga0508132_00224_22524_22892	CDS	null	hypothetical protein	22524	22892	-	
+3300049256 assembled Ga0508132_00224_2584_2877	CDS	null	RsiW-degrading membrane proteinase PrsW (M82 family)	2584	2877	+	
+3300049256 assembled Ga0508132_00224_2881_4068	CDS	null	cytochrome P450	2881	4068	-	
+3300049256 assembled Ga0508132_00224_3_344	CDS	null	2-hydroxychromene-2-carboxylate isomerase	3	344	-	
+3300049256 assembled Ga0508132_00224_4222_5112	CDS	null	AraC family transcriptional activator of pobA	4222	5112	+	
+3300049256 assembled Ga0508132_00224_5336_6193	CDS	null	protocatechuate 4,5-dioxygenase beta chain	5336	6193	-	
+3300049256 assembled Ga0508132_00224_535_2481	CDS	null	alkyl sulfatase BDS1-like metallo-beta-lactamase superfamily hydrolase	535	2481	+	
+3300049256 assembled Ga0508132_00224_6209_6583	CDS	null	protocatechuate 4,5-dioxygenase alpha chain	6209	6583	-	
+3300049256 assembled Ga0508132_00224_6721_7371	CDS	null	8-oxo-dGTP diphosphatase	6721	7371	-	
+3300049256 assembled Ga0508132_00224_7450_7656	CDS	null	hypothetical protein	7450	7656	-	
+3300049256 assembled Ga0508132_00224_7901_9535	CDS	null	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II	7901	9535	+	
+3300049256 assembled Ga0508132_00224_9789_10631	CDS	null	molybdenum transport protein	9789	10631	-	

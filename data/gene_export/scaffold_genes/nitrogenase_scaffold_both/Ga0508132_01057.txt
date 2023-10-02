@@ -1,0 +1,6 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_01057_2265_3824	CDS	null	nitrogenase molybdenum-iron protein beta chain	2265	3824	-	
+3300049256 assembled Ga0508132_01057_3902_5365	CDS	null	nitrogenase molybdenum-iron protein alpha chain	3902	5365	-	
+3300049256 assembled Ga0508132_01057_3_752	CDS	null	nitrogenase molybdenum-iron protein NifN	3	752	-	
+3300049256 assembled Ga0508132_01057_5437_6330	CDS	null	nitrogenase iron protein NifH	5437	6330	-	
+3300049256 assembled Ga0508132_01057_763_2226	CDS	null	nitrogenase molybdenum-cofactor synthesis protein NifE	763	2226	-	

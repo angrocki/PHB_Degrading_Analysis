@@ -1,0 +1,19 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00397_10831_12228	CDS	null	cystathionine beta-synthase	10831	12228	-	
+3300049256 assembled Ga0508132_00397_1172_2551	CDS	null	nitrogenase molybdenum-iron protein beta chain	1172	2551	-	
+3300049256 assembled Ga0508132_00397_12230_12502	CDS	null	hypothetical protein	12230	12502	+	
+3300049256 assembled Ga0508132_00397_12700_13083	CDS	null	nitrogen fixation protein NifB	12700	13083	+	
+3300049256 assembled Ga0508132_00397_13080_14003	CDS	null	nitrogen fixation protein NifB	13080	14003	+	
+3300049256 assembled Ga0508132_00397_14046_14921	CDS	null	nitrogenase iron protein NifH	14046	14921	+	
+3300049256 assembled Ga0508132_00397_14964_15461	CDS	null	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase	14964	15461	+	
+3300049256 assembled Ga0508132_00397_15743_16075	CDS	null	Lrp/AsnC family transcriptional regulator	15743	16075	+	
+3300049256 assembled Ga0508132_00397_2564_4069	CDS	null	nitrogenase molybdenum-iron protein alpha chain	2564	4069	-	
+3300049256 assembled Ga0508132_00397_4085_5398	CDS	null	O-acetylhomoserine (thiol)-lyase	4085	5398	-	
+3300049256 assembled Ga0508132_00397_5434_6135	CDS	null	D-methionine transport system permease protein	5434	6135	-	
+3300049256 assembled Ga0508132_00397_6089_7222	CDS	null	D-methionine transport system ATP-binding protein	6089	7222	-	
+3300049256 assembled Ga0508132_00397_67_1167	CDS	null	threonine aldolase	67	1167	+	
+3300049256 assembled Ga0508132_00397_7231_8013	CDS	null	D-methionine transport system substrate-binding protein	7231	8013	-	
+3300049256 assembled Ga0508132_00397_8063_8182	CDS	null	hypothetical protein	8063	8182	+	
+3300049256 assembled Ga0508132_00397_8201_8380	CDS	null	hypothetical protein	8201	8380	-	
+3300049256 assembled Ga0508132_00397_8510_9556	CDS	null	isopenicillin N synthase-like dioxygenase	8510	9556	+	
+3300049256 assembled Ga0508132_00397_9657_10829	CDS	null	cystathionine gamma-lyase	9657	10829	-	

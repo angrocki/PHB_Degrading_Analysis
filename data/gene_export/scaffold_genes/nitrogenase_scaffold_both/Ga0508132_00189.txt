@@ -1,0 +1,26 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00189_11506_12024	CDS	null	Ni,Fe-hydrogenase III small subunit	11506	12024	-	
+3300049256 assembled Ga0508132_00189_12024_13304	CDS	null	Ni,Fe-hydrogenase III large subunit	12024	13304	-	
+3300049256 assembled Ga0508132_00189_13453_14901	CDS	null	hydrogenase-4 component F	13453	14901	-	
+3300049256 assembled Ga0508132_00189_14898_15554	CDS	null	hydrogenase-4 component E	14898	15554	-	
+3300049256 assembled Ga0508132_00189_15555_16511	CDS	null	formate hydrogenlyase subunit 4	15555	16511	-	
+3300049256 assembled Ga0508132_00189_16502_18511	CDS	null	formate hydrogenlyase subunit 3/multisubunit Na+/H+ antiporter MnhD subunit	16502	18511	-	
+3300049256 assembled Ga0508132_00189_18513_18794	CDS	null	transcriptional regulator with XRE-family HTH domain	18513	18794	-	
+3300049256 assembled Ga0508132_00189_19182_19574	CDS	null	hypothetical protein	19182	19574	+	
+3300049256 assembled Ga0508132_00189_19970_20128	CDS	null	hypothetical protein	19970	20128	+	
+3300049256 assembled Ga0508132_00189_20180_20953	CDS	null	molybdate transport system substrate-binding protein	20180	20953	+	
+3300049256 assembled Ga0508132_00189_207_3260	CDS	null	hypothetical protein	207	3260	+	
+3300049256 assembled Ga0508132_00189_20953_22560	CDS	null	phosphate-selective porin OprO/OprP	20953	22560	+	
+3300049256 assembled Ga0508132_00189_22627_22947	CDS	null	nitrogenase-stabilizing/protective protein	22627	22947	-	
+3300049256 assembled Ga0508132_00189_22944_24062	CDS	null	homocitrate synthase NifV	22944	24062	-	
+3300049256 assembled Ga0508132_00189_24059_24385	CDS	null	NifU-like protein	24059	24385	-	
+3300049256 assembled Ga0508132_00189_24394_24648	CDS	null	iron-sulfur cluster assembly protein	24394	24648	-	
+3300049256 assembled Ga0508132_00189_24836_25129	CDS	null	Nif-specific ferredoxin III	24836	25129	-	
+3300049256 assembled Ga0508132_00189_25148_25618	CDS	null	probable nitrogen fixation protein	25148	25618	-	
+3300049256 assembled Ga0508132_00189_25599_25757	CDS	null	nitrogen fixation protein NifX	25599	25757	-	
+3300049256 assembled Ga0508132_00189_3616_4935	CDS	null	hydroxypyruvate reductase	3616	4935	+	
+3300049256 assembled Ga0508132_00189_5137_5409	CDS	null	hypothetical protein	5137	5409	+	
+3300049256 assembled Ga0508132_00189_5557_6318	CDS	null	TonB-dependent receptor	5557	6318	-	
+3300049256 assembled Ga0508132_00189_6480_7088	CDS	null	aerobic C4-dicarboxylate transport protein	6480	7088	+	
+3300049256 assembled Ga0508132_00189_7117_7242	CDS	null	hypothetical protein	7117	7242	+	
+3300049256 assembled Ga0508132_00189_7381_11247	CDS	null	hypothetical protein	7381	11247	+	

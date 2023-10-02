@@ -1,0 +1,17 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00575_10406_10780	CDS	null	protocatechuate 4,5-dioxygenase alpha chain	10406	10780	+	
+3300049256 assembled Ga0508132_00575_10796_11653	CDS	null	protocatechuate 4,5-dioxygenase beta chain	10796	11653	+	
+3300049256 assembled Ga0508132_00575_11880_11981	CDS	null	AraC family transcriptional activator of pobA	11880	11981	-	
+3300049256 assembled Ga0508132_00575_1198_2091	CDS	null	pimeloyl-ACP methyl ester carboxylesterase	1198	2091	-	
+3300049256 assembled Ga0508132_00575_1_384	CDS	null	branched-chain amino acid transport system ATP-binding protein/urea transport system ATP-binding protein	1	384	+	
+3300049256 assembled Ga0508132_00575_2309_2737	CDS	null	ArsR family transcriptional regulator	2309	2737	+	
+3300049256 assembled Ga0508132_00575_2750_3124	CDS	null	rhodanese-related sulfurtransferase	2750	3124	-	
+3300049256 assembled Ga0508132_00575_3169_4296	CDS	null	sulfide:quinone oxidoreductase	3169	4296	-	
+3300049256 assembled Ga0508132_00575_377_1078	CDS	null	branched-chain amino acid transport system ATP-binding protein	377	1078	+	
+3300049256 assembled Ga0508132_00575_4490_5104	CDS	null	cyclopropane fatty-acyl-phospholipid synthase-like methyltransferase	4490	5104	+	
+3300049256 assembled Ga0508132_00575_5111_5506	CDS	null	nitrogenase-associated protein	5111	5506	-	
+3300049256 assembled Ga0508132_00575_5521_6111	CDS	null	nucleoside-triphosphatase THEP1	5521	6111	-	
+3300049256 assembled Ga0508132_00575_6358_7200	CDS	null	molybdenum transport protein	6358	7200	+	
+3300049256 assembled Ga0508132_00575_7454_9088	CDS	null	acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II	7454	9088	-	
+3300049256 assembled Ga0508132_00575_9333_9539	CDS	null	hypothetical protein	9333	9539	+	
+3300049256 assembled Ga0508132_00575_9618_10268	CDS	null	8-oxo-dGTP diphosphatase	9618	10268	+	
