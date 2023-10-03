@@ -58,6 +58,9 @@ driver.find_element("xpath", "//*[@id='password']").send_keys("repSak-hajha1-zir
 driver.find_element("xpath", "//*[@id='password']").send_keys(Keys.RETURN)
 sleep(3)
 
+# AA sequence: https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaGeneDetail&page=genePageMainFaa&taxon_oid=3300049256&data_type=assembled&gene_oid=Ga0508132_00002_10049_11083
+# Nucleotide sequence: https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaGeneDetail&page=exportMetaGenes&exportType=nucleic&taxon_oid=3300049256&data_type=assembled&gene_oid=Ga0508132_00002_10049_11083&scaffold_oid=Ga0508132_00002&strand=-&start_coord=10049&end_coord=11083
+
 pbar = ProgressBar()
 for scaffold in pbar(scaffolds):
     driver.get("https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaScaffoldDetail&page=metaScaffoldGenes&taxon_oid=3300049256&scaffold_oid=" + scaffold)
