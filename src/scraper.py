@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from pynput.keyboard import Key, Controller
 from progressbar import ProgressBar
 
-CSV_NAME = "nitrogenase_scaffold_both"
+CSV_NAME = "polyhydroxy_scaffold_both"
 
 keyboard = Controller()
 def export_current_scaffold():

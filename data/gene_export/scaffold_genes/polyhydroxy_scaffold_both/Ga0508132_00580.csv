@@ -1,0 +1,12 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00580_10602_10763	CDS	null	hypothetical protein	10602	10763	+	
+3300049256 assembled Ga0508132_00580_10865_11929	CDS	null	O-acetylhomoserine (thiol)-lyase	10865	11929	+	
+3300049256 assembled Ga0508132_00580_1590_4154	CDS	null	Mg2+-importing ATPase	1590	4154	+	
+3300049256 assembled Ga0508132_00580_3_1400	CDS	null	polyhydroxyalkanoate synthase	3	1400	-	
+3300049256 assembled Ga0508132_00580_4213_5049	CDS	null	nucleotide-binding universal stress UspA family protein	4213	5049	-	
+3300049256 assembled Ga0508132_00580_5239_6072	CDS	null	nucleotide-binding universal stress UspA family protein	5239	6072	+	
+3300049256 assembled Ga0508132_00580_6177_6890	CDS	null	CBS domain-containing protein	6177	6890	+	
+3300049256 assembled Ga0508132_00580_7036_8562	CDS	null	two-component system sensor kinase FixL	7036	8562	+	
+3300049256 assembled Ga0508132_00580_8555_9166	CDS	null	two-component system response regulator FixJ	8555	9166	+	
+3300049256 assembled Ga0508132_00580_9252_9644	CDS	null	FixJ family two-component response regulator	9252	9644	+	
+3300049256 assembled Ga0508132_00580_9843_10535	CDS	null	CRP/FNR family nitrogen fixation transcriptional regulator	9843	10535	+	

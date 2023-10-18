@@ -1,0 +1,103 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00022_10653_11900	CDS	null	UPF0755 protein	10653	11900	+	
+3300049256 assembled Ga0508132_00022_12220_12900	CDS	null	guanylate kinase	12220	12900	+	
+3300049256 assembled Ga0508132_00022_1258_3111	CDS	null	di/tricarboxylate transporter	1258	3111	-	
+3300049256 assembled Ga0508132_00022_13011_13478	CDS	null	hypothetical protein	13011	13478	+	
+3300049256 assembled Ga0508132_00022_13646_14299	CDS	null	glutathione S-transferase	13646	14299	-	
+3300049256 assembled Ga0508132_00022_14384_15604	CDS	null	polyhydroxyalkanoate depolymerase	14384	15604	+	
+3300049256 assembled Ga0508132_00022_15636_15905	CDS	null	hypothetical protein	15636	15905	+	
+3300049256 assembled Ga0508132_00022_15976_16380	CDS	null	septation ring formation regulator EzrA	15976	16380	-	
+3300049256 assembled Ga0508132_00022_16848_17543	CDS	null	two-component system cell cycle response regulator CtrA	16848	17543	+	
+3300049256 assembled Ga0508132_00022_17818_18471	CDS	null	histidine phosphotransferase ChpT	17818	18471	-	
+3300049256 assembled Ga0508132_00022_18750_19514	CDS	null	3'(2'), 5'-bisphosphate nucleotidase	18750	19514	+	
+3300049256 assembled Ga0508132_00022_19788_20693	CDS	null	hypothetical protein	19788	20693	+	
+3300049256 assembled Ga0508132_00022_20841_22397	CDS	null	predicted  nucleic acid-binding Zn-ribbon protein	20841	22397	+	
+3300049256 assembled Ga0508132_00022_22546_23307	CDS	null	serine/threonine protein phosphatase 1	22546	23307	-	
+3300049256 assembled Ga0508132_00022_23532_24701	CDS	null	TRAP transporter TAXI family solute receptor	23532	24701	+	
+3300049256 assembled Ga0508132_00022_24753_27224	CDS	null	hypothetical protein	24753	27224	+	
+3300049256 assembled Ga0508132_00022_27230_27442	CDS	null	SlyX protein	27230	27442	+	
+3300049256 assembled Ga0508132_00022_27487_28398	CDS	null	protein-L-isoaspartate(D-aspartate) O-methyltransferase	27487	28398	-	
+3300049256 assembled Ga0508132_00022_28531_28782	CDS	null	hypothetical protein	28531	28782	-	
+3300049256 assembled Ga0508132_00022_28955_29030	tRNA	null	tRNA_Ala_GGC	28955	29030	-	
+3300049256 assembled Ga0508132_00022_29098_29193	CDS	null	hypothetical protein	29098	29193	-	
+3300049256 assembled Ga0508132_00022_29352_29744	CDS	null	uncharacterized protein (TIGR02300 family)	29352	29744	-	
+3300049256 assembled Ga0508132_00022_29728_29865	CDS	null	hypothetical protein	29728	29865	-	
+3300049256 assembled Ga0508132_00022_29986_31332	CDS	null	3-phosphoshikimate 1-carboxyvinyltransferase	29986	31332	+	
+3300049256 assembled Ga0508132_00022_31329_31958	CDS	null	cytidylate kinase	31329	31958	+	
+3300049256 assembled Ga0508132_00022_32150_33880	CDS	null	small subunit ribosomal protein S1	32150	33880	+	
+3300049256 assembled Ga0508132_00022_3331_4848	CDS	null	succinyl-CoA:acetate CoA-transferase	3331	4848	-	
+3300049256 assembled Ga0508132_00022_33959_34942	CDS	null	protease-4	33959	34942	+	
+3300049256 assembled Ga0508132_00022_34947_35279	CDS	null	integration host factor subunit beta	34947	35279	+	
+3300049256 assembled Ga0508132_00022_35316_35681	CDS	null	uncharacterized integral membrane protein	35316	35681	+	
+3300049256 assembled Ga0508132_00022_35844_36536	CDS	null	phosphoribosylanthranilate isomerase	35844	36536	+	
+3300049256 assembled Ga0508132_00022_36523_37755	CDS	null	tryptophan synthase beta chain	36523	37755	+	
+3300049256 assembled Ga0508132_00022_37789_38607	CDS	null	tryptophan synthase alpha chain	37789	38607	+	
+3300049256 assembled Ga0508132_00022_38657_39685	CDS	null	acetyl-CoA carboxylase carboxyl transferase subunit beta	38657	39685	+	
+3300049256 assembled Ga0508132_00022_39730_41052	CDS	null	dihydrofolate synthase/folylpolyglutamate synthase	39730	41052	+	
+3300049256 assembled Ga0508132_00022_3_563	CDS	null	predicted ATPase	3	563	-	
+3300049256 assembled Ga0508132_00022_41115_42041	CDS	null	hypothetical protein	41115	42041	-	
+3300049256 assembled Ga0508132_00022_42240_43109	CDS	null	3-hydroxyisobutyrate dehydrogenase	42240	43109	-	
+3300049256 assembled Ga0508132_00022_43153_44439	CDS	null	putative hemolysin	43153	44439	-	
+3300049256 assembled Ga0508132_00022_44577_45185	CDS	null	hypothetical protein	44577	45185	+	
+3300049256 assembled Ga0508132_00022_45342_46391	CDS	null	branched-chain amino acid transport system permease protein	45342	46391	-	
+3300049256 assembled Ga0508132_00022_46391_47509	CDS	null	branched-chain amino acid transport system permease protein	46391	47509	-	
+3300049256 assembled Ga0508132_00022_47582_48793	CDS	null	branched-chain amino acid transport system substrate-binding protein	47582	48793	-	
+3300049256 assembled Ga0508132_00022_48828_49607	CDS	null	branched-chain amino acid transport system ATP-binding protein	48828	49607	-	
+3300049256 assembled Ga0508132_00022_49600_50355	CDS	null	branched-chain amino acid transport system ATP-binding protein	49600	50355	-	
+3300049256 assembled Ga0508132_00022_50441_51301	CDS	null	hypothetical protein	50441	51301	-	
+3300049256 assembled Ga0508132_00022_5132_5710	CDS	null	large subunit ribosomal protein L9	5132	5710	-	
+3300049256 assembled Ga0508132_00022_51398_51625	CDS	null	hypothetical protein	51398	51625	+	
+3300049256 assembled Ga0508132_00022_51689_52069	CDS	null	phasin	51689	52069	+	
+3300049256 assembled Ga0508132_00022_52687_52763	tRNA	null	tRNA_His_GTG	52687	52763	+	
+3300049256 assembled Ga0508132_00022_52778_53122	CDS	null	hypothetical protein	52778	53122	+	
+3300049256 assembled Ga0508132_00022_53097_53918	CDS	null	O-methyltransferase/8-demethyl-8-(2,3-dimethoxy-alpha-L-rhamnosyl)tetracenomycin-C 4'-O-methyltransferase	53097	53918	+	
+3300049256 assembled Ga0508132_00022_54353_54754	CDS	null	hemerythrin	54353	54754	+	
+3300049256 assembled Ga0508132_00022_54832_54918	CDS	null	hypothetical protein	54832	54918	-	
+3300049256 assembled Ga0508132_00022_54933_55018	tRNA	null	tRNA_Leu_TAA	54933	55018	-	
+3300049256 assembled Ga0508132_00022_55079_55885	CDS	null	hypothetical protein	55079	55885	-	
+3300049256 assembled Ga0508132_00022_56146_56589	CDS	null	uncharacterized low-complexity protein	56146	56589	+	
+3300049256 assembled Ga0508132_00022_56647_56895	CDS	null	4-oxalocrotonate tautomerase	56647	56895	+	
+3300049256 assembled Ga0508132_00022_56947_57723	CDS	null	sterol desaturase/sphingolipid hydroxylase (fatty acid hydroxylase superfamily)	56947	57723	-	
+3300049256 assembled Ga0508132_00022_5723_5968	CDS	null	small subunit ribosomal protein S18	5723	5968	-	
+3300049256 assembled Ga0508132_00022_57897_58706	CDS	null	uncharacterized protein (TIGR04222 family)	57897	58706	+	
+3300049256 assembled Ga0508132_00022_58716_59315	CDS	null	thiamine-phosphate pyrophosphorylase	58716	59315	-	
+3300049256 assembled Ga0508132_00022_59382_60185	CDS	null	thiazole synthase	59382	60185	-	
+3300049256 assembled Ga0508132_00022_5971_6492	CDS	null	small subunit ribosomal protein S6	5971	6492	-	
+3300049256 assembled Ga0508132_00022_60190_60387	CDS	null	sulfur carrier protein	60190	60387	-	
+3300049256 assembled Ga0508132_00022_60365_61438	CDS	null	glycine oxidase	60365	61438	-	
+3300049256 assembled Ga0508132_00022_61658_62704	CDS	null	porphobilinogen synthase	61658	62704	+	
+3300049256 assembled Ga0508132_00022_62770_64041	CDS	null	threonine dehydratase	62770	64041	+	
+3300049256 assembled Ga0508132_00022_64168_64878	CDS	null	hypothetical protein	64168	64878	-	
+3300049256 assembled Ga0508132_00022_65087_65536	CDS	null	uncharacterized protein (DUF2141 family)	65087	65536	+	
+3300049256 assembled Ga0508132_00022_65784_66737	CDS	null	tellurite resistance protein TerC	65784	66737	-	
+3300049256 assembled Ga0508132_00022_67026_68252	CDS	null	nodulation protein E	67026	68252	-	
+3300049256 assembled Ga0508132_00022_68316_68585	CDS	null	acyl carrier protein	68316	68585	-	
+3300049256 assembled Ga0508132_00022_68855_70606	CDS	null	long-chain acyl-CoA synthetase	68855	70606	+	
+3300049256 assembled Ga0508132_00022_6974_7882	CDS	null	[acyl-carrier-protein] S-malonyltransferase	6974	7882	+	
+3300049256 assembled Ga0508132_00022_70663_71361	CDS	null	aspartate racemase	70663	71361	+	
+3300049256 assembled Ga0508132_00022_71498_72391	CDS	null	MazG family protein	71498	72391	-	
+3300049256 assembled Ga0508132_00022_72513_72836	CDS	null	hypothetical protein	72513	72836	-	
+3300049256 assembled Ga0508132_00022_729_1166	CDS	null	uncharacterized protein (DUF2147 family)	729	1166	+	
+3300049256 assembled Ga0508132_00022_73149_73247	CDS	null	hypothetical protein	73149	73247	+	
+3300049256 assembled Ga0508132_00022_73831_75381	CDS	null	leucyl aminopeptidase	73831	75381	-	
+3300049256 assembled Ga0508132_00022_75444_75626	CDS	null	hypothetical protein	75444	75626	+	
+3300049256 assembled Ga0508132_00022_75634_76797	CDS	null	lipopolysaccharide export system permease protein	75634	76797	+	
+3300049256 assembled Ga0508132_00022_76810_77901	CDS	null	lipopolysaccharide export system permease protein	76810	77901	+	
+3300049256 assembled Ga0508132_00022_77971_80271	CDS	null	LPS-assembly protein	77971	80271	+	
+3300049256 assembled Ga0508132_00022_7905_8642	CDS	null	3-oxoacyl-[acyl-carrier protein] reductase	7905	8642	+	
+3300049256 assembled Ga0508132_00022_80507_81607	CDS	null	peptidyl-prolyl cis-trans isomerase SurA	80507	81607	+	
+3300049256 assembled Ga0508132_00022_81991_83001	CDS	null	4-hydroxythreonine-4-phosphate dehydrogenase	81991	83001	+	
+3300049256 assembled Ga0508132_00022_82998_83861	CDS	null	16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase	82998	83861	+	
+3300049256 assembled Ga0508132_00022_84039_84458	CDS	null	hypothetical protein	84039	84458	-	
+3300049256 assembled Ga0508132_00022_84825_85226	CDS	null	ribonuclease VapC	84825	85226	-	
+3300049256 assembled Ga0508132_00022_85223_85561	CDS	null	transcriptional regulator with XRE-family HTH domain	85223	85561	-	
+3300049256 assembled Ga0508132_00022_85594_87516	CDS	null	aspartyl-tRNA synthetase	85594	87516	-	
+3300049256 assembled Ga0508132_00022_87715_88866	CDS	null	ribonuclease D	87715	88866	+	
+3300049256 assembled Ga0508132_00022_8872_9114	CDS	null	acyl carrier protein	8872	9114	+	
+3300049256 assembled Ga0508132_00022_88907_89857	CDS	null	regulator of protease activity HflC (stomatin/prohibitin superfamily)	88907	89857	-	
+3300049256 assembled Ga0508132_00022_90081_90503	CDS	null	nucleoside-diphosphate kinase	90081	90503	+	
+3300049256 assembled Ga0508132_00022_90676_91104	CDS	null	catechol 2,3-dioxygenase-like lactoylglutathione lyase family enzyme	90676	91104	+	
+3300049256 assembled Ga0508132_00022_91222_94314	CDS	null	isoleucyl-tRNA synthetase	91222	94314	-	
+3300049256 assembled Ga0508132_00022_9235_10491	CDS	null	3-oxoacyl-[acyl-carrier-protein] synthase II	9235	10491	+	
+3300049256 assembled Ga0508132_00022_94487_95959	CDS	null	acetyl-CoA C-acetyltransferase	94487	95959	-	
+3300049256 assembled Ga0508132_00022_96019_97446	CDS	null	3-hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase/3-hydroxybutyryl-CoA epimerase	96019	97446	-	
