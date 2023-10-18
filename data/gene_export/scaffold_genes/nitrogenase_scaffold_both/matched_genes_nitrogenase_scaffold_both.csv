@@ -1,0 +1,80 @@
+Gene ID,Scaffold ID,Scaffold Gene Count,Lineage
+Ga0508132_00002_338511_339143,Ga0508132_00002,578,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00002_340760_342142,Ga0508132_00002,578,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00002_342132_343496,Ga0508132_00002,578,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00002_343537_344925,Ga0508132_00002,578,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00002_344927_346540,Ga0508132_00002,578,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00002_347344_348171,Ga0508132_00002,578,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00004_32348_33643,Ga0508132_00004,382,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00004_33694_35184,Ga0508132_00004,382,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00004_47197_48072,Ga0508132_00004,382,Bacteria; Firmicutes; Negativicutes; Selenomonadales; Sporomusaceae
+Ga0508132_00028_19260_20021,Ga0508132_00028,84,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium
+Ga0508132_00028_20152_21540,Ga0508132_00028,84,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium
+Ga0508132_00028_21558_21908,Ga0508132_00028,84,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium
+Ga0508132_00028_21924_23495,Ga0508132_00028,84,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium
+Ga0508132_00028_23657_24484,Ga0508132_00028,84,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium
+Ga0508132_00042_32522_32950,Ga0508132_00042,75,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00033_3185_4570,Ga0508132_00033,69,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00033_4582_6111,Ga0508132_00033,69,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00033_6121_7650,Ga0508132_00033,69,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00033_7687_8541,Ga0508132_00033,69,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00043_14067_15446,Ga0508132_00043,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00043_15449_16834,Ga0508132_00043,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00043_20948_22360,Ga0508132_00043,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00043_22363_22698,Ga0508132_00043,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00043_22802_24190,Ga0508132_00043,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00045_33456_33839,Ga0508132_00045,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00045_39973_41346,Ga0508132_00045,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00045_41357_42823,Ga0508132_00045,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00045_42875_44452,Ga0508132_00045,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00045_44513_45976,Ga0508132_00045,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00045_46046_46936,Ga0508132_00045,68,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00067_44932_46302,Ga0508132_00067,44,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium
+Ga0508132_00067_46318_47823,Ga0508132_00067,44,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium
+Ga0508132_00087_11945_12286,Ga0508132_00087,41,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00189_22627_22947,Ga0508132_00189,25,Bacteria; Proteobacteria; Alphaproteobacteria
+Ga0508132_00224_11483_11878,Ga0508132_00224,25,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00218_1634_3013,Ga0508132_00218,23,Bacteria; Proteobacteria; Alphaproteobacteria; Micropepsales; Micropepsaceae; Rhizomicrobium
+Ga0508132_00218_3018_4544,Ga0508132_00218,23,Bacteria; Proteobacteria; Alphaproteobacteria; Micropepsales; Micropepsaceae; Rhizomicrobium
+Ga0508132_00218_304_1632,Ga0508132_00218,23,Bacteria; Proteobacteria; Alphaproteobacteria; Micropepsales; Micropepsaceae; Rhizomicrobium
+Ga0508132_00218_4555_6009,Ga0508132_00218,23,Bacteria; Proteobacteria; Alphaproteobacteria; Micropepsales; Micropepsaceae; Rhizomicrobium
+Ga0508132_00218_6036_7166,Ga0508132_00218,23,Bacteria; Proteobacteria; Alphaproteobacteria; Micropepsales; Micropepsaceae; Rhizomicrobium
+Ga0508132_00345_12633_13073,Ga0508132_00345,20,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00345_2420_3802,Ga0508132_00345,20,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00345_3810_5486,Ga0508132_00345,20,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00345_5619_7112,Ga0508132_00345,20,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00345_7290_8747,Ga0508132_00345,20,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00345_8845_9723,Ga0508132_00345,20,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00312_3384_4919,Ga0508132_00312,19,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00312_4919_6310,Ga0508132_00312,19,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00397_1172_2551,Ga0508132_00397,18,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00397_14046_14921,Ga0508132_00397,18,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00397_2564_4069,Ga0508132_00397,18,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00575_5111_5506,Ga0508132_00575,16,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00441_4293_5576,Ga0508132_00441,14,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00441_5576_6937,Ga0508132_00441,14,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00441_6937_7809,Ga0508132_00441,14,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Hyphomicrobiaceae; Rhodomicrobium; Rhodomicrobium vannielii
+Ga0508132_00651_1084_1746,Ga0508132_00651,13,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00651_3_872,Ga0508132_00651,13,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00651_874_1062,Ga0508132_00651,13,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00909_22_699,Ga0508132_00909,12,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00909_7072_7422,Ga0508132_00909,12,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00953_3_377,Ga0508132_00953,12,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00953_6763_7113,Ga0508132_00953,12,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00539_10740_11609,Ga0508132_00539,11,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00539_7772_9154,Ga0508132_00539,11,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00539_9166_10674,Ga0508132_00539,11,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01032_1349_1744,Ga0508132_01032,10,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00907_2047_2787,Ga0508132_00907,9,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00907_2822_4207,Ga0508132_00907,9,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00907_4220_4660,Ga0508132_00907,9,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00907_4673_6241,Ga0508132_00907,9,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_00907_6290_7117,Ga0508132_00907,9,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01308_4461_4811,Ga0508132_01308,6,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01057_2265_3824,Ga0508132_01057,5,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01057_3902_5365,Ga0508132_01057,5,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01057_3_752,Ga0508132_01057,5,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01057_5437_6330,Ga0508132_01057,5,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01057_763_2226,Ga0508132_01057,5,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01414_3302_4552,Ga0508132_01414,5,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
+Ga0508132_01998_2745_3071,Ga0508132_01998,4,Bacteria; Proteobacteria; Alphaproteobacteria; Hyphomicrobiales; Bradyrhizobiaceae; Rhodopseudomonas; Rhodopseudomonas palustris
