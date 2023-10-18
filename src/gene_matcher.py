@@ -2,9 +2,9 @@ import os
 import pandas as pd
 
 
-SEARCH_TERM = "nitrogenase"
+SEARCH_TERM = "poly(3-hydroxybutyrate)"
 DATA = "both"
-FILE_NAME = "nitrogenase_scaffold_both"
+FILE_NAME = "poly(3-hydroxybutyrate)_scaffold_both"
 # Create new data frame
 matched_genes = pd.DataFrame()
 missing_scaffolds = pd.DataFrame()
