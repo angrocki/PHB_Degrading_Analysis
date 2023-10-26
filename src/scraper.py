@@ -9,6 +9,7 @@ from pynput.keyboard import Key, Controller
 from progressbar import ProgressBar
 
 CSV_NAME = "polyhydroxy_scaffold_both"
+MATCHED_GENES_CSV = "matched_genes_polyhydroxy_scaffold_both"
 
 keyboard = Controller()
 def export_current_scaffold():
@@ -28,6 +29,14 @@ def export_current_scaffold():
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
 
+def get_aa_seq():
+    try:
+        text = driver.find_element("xpath", '//*[@id="content_other"]/pre').text
+    except:
+        print(gene)
+        return "err"
+    return text
+
 def move_exported_file(scaffold):
     # move file named exportdata.txt from Downloads to data folder
     # wait till file is downloaded
@@ -39,11 +48,13 @@ def move_exported_file(scaffold):
 
 # Read CSV file into a DataFrame
 df = pd.read_csv(f'../data/Search/{CSV_NAME}.csv')
+gene_df = pd.read_csv(f'../data/gene_export/scaffold_genes/polyhydroxy_scaffold_both/{MATCHED_GENES_CSV}.csv')
 
 # add first column of df to scaffolds list if scaffold gene count > 2
 scaffolds = [x["Scaffold ID"].split(" ")[-1] for _, x in df.iloc[0:].iterrows() if x["Scaffold Gene Count"] > 2]
 
-# driver = webdriver.Chrome(ChromeDriverManager().install())
+genes = [x["Gene ID"] for _, x in gene_df.iloc[0:].iterrows()]
+
 options = Options()
 options.binary_location = '/Applications/Brave Browser.app/Contents/MacOS/Brave Browser'
 driver = webdriver.Chrome(options=options)
@@ -60,13 +71,24 @@ sleep(3)
 
 # AA sequence: https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaGeneDetail&page=genePageMainFaa&taxon_oid=3300049256&data_type=assembled&gene_oid=Ga0508132_00002_10049_11083
 # Nucleotide sequence: https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaGeneDetail&page=exportMetaGenes&exportType=nucleic&taxon_oid=3300049256&data_type=assembled&gene_oid=Ga0508132_00002_10049_11083&scaffold_oid=Ga0508132_00002&strand=-&start_coord=10049&end_coord=11083
+# Edit gene_id to get Gene: https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaGeneDetail&page=metaGeneDetail&data_type=assembled&taxon_oid=3300049256&gene_oid=Ga0508132_00003_30487_31608
 
 pbar = ProgressBar()
-for scaffold in pbar(scaffolds):
-    driver.get("https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaScaffoldDetail&page=metaScaffoldGenes&taxon_oid=3300049256&scaffold_oid=" + scaffold)
+# for scaffold in pbar(scaffolds):
+#     driver.get("https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaScaffoldDetail&page=metaScaffoldGenes&taxon_oid=3300049256&scaffold_oid=" + scaffold)
+#     # wait till element is loaded
+#     sleep(3)
+#     out = export_current_scaffold()               
+#     if out == "err":
+#         continue
+#     move_exported_file(scaffold)
+
+aa_sequences = []
+for gene in genes:
+    driver.get("https://img.jgi.doe.gov/cgi-bin/mer/main.cgi?section=MetaGeneDetail&page=genePageMainFaa&taxon_oid=3300049256&data_type=assembled&gene_oid=" + gene)
     # wait till element is loaded
     sleep(3)
-    out = export_current_scaffold()
-    if out == "err":
-        continue
-    move_exported_file(scaffold)
+    aa_sequences.append((gene, get_aa_seq()))
+
+df = pd.DataFrame(aa_sequences, columns=["Gene ID", "AA Sequence"])
+df.to_csv(f'../data/gene_export/scaffold_genes/polyhydroxy_scaffold_both/{MATCHED_GENES_CSV}_aa.csv', index=False)
