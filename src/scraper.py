@@ -7,9 +7,10 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from pynput.keyboard import Key, Controller
 from progressbar import ProgressBar
+from jgipass import password
 
 CSV_NAME = "polyhydroxy_scaffold_both"
-MATCHED_GENES_CSV = "matched_genes_polyhydroxy_scaffold_both"
+MATCHED_GENES_CSV = "../data/gene_export/scaffold_genes/polyhydroxy_scaffold_both/matched_genes_polyhydroxy_scaffold_both"
 
 keyboard = Controller()
 def export_current_scaffold():
@@ -48,7 +49,7 @@ def move_exported_file(scaffold):
 
 # Read CSV file into a DataFrame
 df = pd.read_csv(f'../data/Search/{CSV_NAME}.csv')
-gene_df = pd.read_csv(f'../data/gene_export/scaffold_genes/polyhydroxy_scaffold_both/{MATCHED_GENES_CSV}.csv')
+gene_df = pd.read_csv(f'{MATCHED_GENES_CSV}.csv')
 
 # add first column of df to scaffolds list if scaffold gene count > 2
 scaffolds = [x["Scaffold ID"].split(" ")[-1] for _, x in df.iloc[0:].iterrows() if x["Scaffold Gene Count"] > 2]
@@ -65,7 +66,7 @@ sleep(3)
 
 # login
 driver.find_element("xpath", "//*[@id='login']").send_keys("asandhu@olin.edu")
-driver.find_element("xpath", "//*[@id='password']").send_keys("repSak-hajha1-zirvyx")
+driver.find_element("xpath", "//*[@id='password']").send_keys(f"{password}")
 driver.find_element("xpath", "//*[@id='password']").send_keys(Keys.RETURN)
 sleep(3)
 
@@ -91,4 +92,4 @@ for gene in genes:
     aa_sequences.append((gene, get_aa_seq()))
 
 df = pd.DataFrame(aa_sequences, columns=["Gene ID", "AA Sequence"])
-df.to_csv(f'../data/gene_export/scaffold_genes/polyhydroxy_scaffold_both/{MATCHED_GENES_CSV}_aa.csv', index=False)
+df.to_csv(f'{MATCHED_GENES_CSV}_aa.csv', index=False)
