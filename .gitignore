@@ -2,3 +2,4 @@
 venv/
 chromedriver
 jgipass.py
+__pycache__/

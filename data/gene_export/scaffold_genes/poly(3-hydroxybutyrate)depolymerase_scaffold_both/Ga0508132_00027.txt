@@ -1,0 +1,95 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00027_10475_10747	CDS	null	large subunit ribosomal protein L27	10475	10747	-	
+3300049256 assembled Ga0508132_00027_10835_11305	CDS	null	large subunit ribosomal protein L21	10835	11305	-	
+3300049256 assembled Ga0508132_00027_11326_11526	CDS	null	hypothetical protein	11326	11526	+	
+3300049256 assembled Ga0508132_00027_11563_12729	CDS	null	predicted NBD/HSP70 family sugar kinase	11563	12729	+	
+3300049256 assembled Ga0508132_00027_1290_1772	CDS	null	23S rRNA (pseudouridine1915-N3)-methyltransferase	1290	1772	-	
+3300049256 assembled Ga0508132_00027_13024_13113	tRNA	null	tRNA_Ser_CGA	13024	13113	+	
+3300049256 assembled Ga0508132_00027_13599_13826	CDS	null	antirestriction protein ArdC	13599	13826	+	
+3300049256 assembled Ga0508132_00027_13833_14129	CDS	null	hypothetical protein	13833	14129	+	
+3300049256 assembled Ga0508132_00027_14083_15117	CDS	null	hypothetical protein	14083	15117	+	
+3300049256 assembled Ga0508132_00027_15415_17220	CDS	null	tetratricopeptide (TPR) repeat protein	15415	17220	-	
+3300049256 assembled Ga0508132_00027_17698_25416	CDS	null	Ca2+-binding RTX toxin-like protein	17698	25416	+	
+3300049256 assembled Ga0508132_00027_1904_2356	CDS	null	ribosome-associated protein	1904	2356	-	
+3300049256 assembled Ga0508132_00027_25500_27227	CDS	null	ATP-binding cassette subfamily C protein	25500	27227	+	
+3300049256 assembled Ga0508132_00027_2571_3200	CDS	null	nicotinate-nucleotide adenylyltransferase	2571	3200	-	
+3300049256 assembled Ga0508132_00027_27224_29530	CDS	null	Ca2+-binding RTX toxin-like protein	27224	29530	+	
+3300049256 assembled Ga0508132_00027_29560_30906	CDS	null	HlyD family secretion protein	29560	30906	+	
+3300049256 assembled Ga0508132_00027_2_1252	CDS	null	septal ring factor EnvC (AmiA/AmiB activator)	2	1252	-	
+3300049256 assembled Ga0508132_00027_30939_31499	CDS	null	hemolysin-activating ACP:hemolysin acyltransferase	30939	31499	+	
+3300049256 assembled Ga0508132_00027_31560_32327	CDS	null	cytidyltransferase-like protein	31560	32327	+	
+3300049256 assembled Ga0508132_00027_3225_4517	CDS	null	glutamate-5-semialdehyde dehydrogenase	3225	4517	-	
+3300049256 assembled Ga0508132_00027_32415_32804	CDS	null	hypothetical protein	32415	32804	+	
+3300049256 assembled Ga0508132_00027_33102_34172	CDS	null	branched-chain amino acid transport system substrate-binding protein	33102	34172	+	
+3300049256 assembled Ga0508132_00027_34195_34800	CDS	null	AmiR/NasT family two-component response regulator	34195	34800	+	
+3300049256 assembled Ga0508132_00027_34916_36187	CDS	null	urea transport system substrate-binding protein	34916	36187	+	
+3300049256 assembled Ga0508132_00027_36251_37120	CDS	null	urea transport system permease protein	36251	37120	+	
+3300049256 assembled Ga0508132_00027_37117_38268	CDS	null	urea transport system permease protein	37117	38268	+	
+3300049256 assembled Ga0508132_00027_38265_39017	CDS	null	urea transport system ATP-binding protein	38265	39017	+	
+3300049256 assembled Ga0508132_00027_39010_39711	CDS	null	urea transport system ATP-binding protein	39010	39711	+	
+3300049256 assembled Ga0508132_00027_39749_40789	CDS	null	amidase	39749	40789	+	
+3300049256 assembled Ga0508132_00027_40943_41743	CDS	null	nitric oxide reductase NorQ protein	40943	41743	+	
+3300049256 assembled Ga0508132_00027_41760_44027	CDS	null	uncharacterized protein YegL	41760	44027	+	
+3300049256 assembled Ga0508132_00027_44749_45690	CDS	null	(S)-sulfolactate dehydrogenase	44749	45690	-	
+3300049256 assembled Ga0508132_00027_45719_46705	CDS	null	(2R)-3-sulfolactate dehydrogenase (NADP+)	45719	46705	-	
+3300049256 assembled Ga0508132_00027_4641_5771	CDS	null	glutamate 5-kinase	4641	5771	-	
+3300049256 assembled Ga0508132_00027_46784_48058	CDS	null	(2R)-sulfolactate sulfo-lyase subunit beta	46784	48058	-	
+3300049256 assembled Ga0508132_00027_48066_48386	CDS	null	(2R)-sulfolactate sulfo-lyase subunit alpha	48066	48386	-	
+3300049256 assembled Ga0508132_00027_48478_49224	CDS	null	GntR family transcriptional regulator	48478	49224	+	
+3300049256 assembled Ga0508132_00027_49247_50332	CDS	null	LacI family transcriptional regulator	49247	50332	-	
+3300049256 assembled Ga0508132_00027_50449_51225	CDS	null	NitT/TauT family transport system permease protein/taurine transport system permease protein	50449	51225	+	
+3300049256 assembled Ga0508132_00027_51227_52018	CDS	null	NitT/TauT family transport system permease protein	51227	52018	+	
+3300049256 assembled Ga0508132_00027_52015_52800	CDS	null	NitT/TauT family transport system ATP-binding protein	52015	52800	+	
+3300049256 assembled Ga0508132_00027_52839_53879	CDS	null	NitT/TauT family transport system substrate-binding protein	52839	53879	+	
+3300049256 assembled Ga0508132_00027_53931_55244	CDS	null	sulfopropanediol 3-dehydrogenase	53931	55244	+	
+3300049256 assembled Ga0508132_00027_55245_56012	CDS	null	gluconate 5-dehydrogenase	55245	56012	+	
+3300049256 assembled Ga0508132_00027_56022_57017	CDS	null	L-iditol 2-dehydrogenase	56022	57017	+	
+3300049256 assembled Ga0508132_00027_57090_58091	CDS	null	NitT/TauT family transport system substrate-binding protein	57090	58091	-	
+3300049256 assembled Ga0508132_00027_58146_59030	CDS	null	NitT/TauT family transport system permease protein	58146	59030	-	
+3300049256 assembled Ga0508132_00027_5886_6935	CDS	null	GTP-binding protein	5886	6935	-	
+3300049256 assembled Ga0508132_00027_59023_59817	CDS	null	NitT/TauT family transport system ATP-binding protein	59023	59817	-	
+3300049256 assembled Ga0508132_00027_59893_60774	CDS	null	nitroreductase/FMN reductase [NAD(P)H]	59893	60774	-	
+3300049256 assembled Ga0508132_00027_61067_62026	CDS	null	DNA-binding transcriptional LysR family regulator	61067	62026	+	
+3300049256 assembled Ga0508132_00027_62067_62810	CDS	null	uncharacterized membrane protein YfcA	62067	62810	-	
+3300049256 assembled Ga0508132_00027_62827_63507	CDS	null	L(+)-tartrate dehydratase beta subunit	62827	63507	-	
+3300049256 assembled Ga0508132_00027_63471_64433	CDS	null	L(+)-tartrate dehydratase alpha subunit	63471	64433	-	
+3300049256 assembled Ga0508132_00027_64430_66196	CDS	null	fumarate reductase flavoprotein subunit	64430	66196	-	
+3300049256 assembled Ga0508132_00027_66199_66540	CDS	null	fumarate reductase subunit D	66199	66540	-	
+3300049256 assembled Ga0508132_00027_66537_66869	CDS	null	fumarate reductase subunit C	66537	66869	-	
+3300049256 assembled Ga0508132_00027_66872_67579	CDS	null	fumarate reductase iron-sulfur subunit	66872	67579	-	
+3300049256 assembled Ga0508132_00027_67833_68114	CDS	null	hypothetical protein	67833	68114	+	
+3300049256 assembled Ga0508132_00027_68379_68543	CDS	null	poly(3-hydroxybutyrate) depolymerase	68379	68543	+	
+3300049256 assembled Ga0508132_00027_68599_69075	CDS	null	hypothetical protein	68599	69075	+	
+3300049256 assembled Ga0508132_00027_69202_69801	CDS	null	hypothetical protein	69202	69801	+	
+3300049256 assembled Ga0508132_00027_69892_70593	CDS	null	VIT1/CCC1 family predicted Fe2+/Mn2+ transporter	69892	70593	-	
+3300049256 assembled Ga0508132_00027_70789_71055	CDS	null	hypothetical protein	70789	71055	-	
+3300049256 assembled Ga0508132_00027_7096_8007	CDS	null	drug/metabolite transporter (DMT)-like permease	7096	8007	+	
+3300049256 assembled Ga0508132_00027_71068_71388	CDS	null	hypothetical protein	71068	71388	-	
+3300049256 assembled Ga0508132_00027_71868_72611	CDS	null	cytochrome b	71868	72611	+	
+3300049256 assembled Ga0508132_00027_72698_72865	CDS	null	hypothetical protein	72698	72865	+	
+3300049256 assembled Ga0508132_00027_72899_74164	CDS	null	two-component sensor histidine kinase	72899	74164	-	
+3300049256 assembled Ga0508132_00027_74375_74578	CDS	null	hypothetical protein	74375	74578	+	
+3300049256 assembled Ga0508132_00027_74571_74999	CDS	null	CheY-like chemotaxis protein	74571	74999	+	
+3300049256 assembled Ga0508132_00027_75149_75895	CDS	null	CRP-like cAMP-binding protein	75149	75895	+	
+3300049256 assembled Ga0508132_00027_75944_76675	CDS	null	CRP-like cAMP-binding protein	75944	76675	-	
+3300049256 assembled Ga0508132_00027_76977_77129	CDS	null	hypothetical protein	76977	77129	+	
+3300049256 assembled Ga0508132_00027_77129_78553	CDS	null	F-type H+-transporting ATPase subunit beta	77129	78553	+	
+3300049256 assembled Ga0508132_00027_78556_78957	CDS	null	F-type H+-transporting ATPase subunit epsilon	78556	78957	+	
+3300049256 assembled Ga0508132_00027_78950_79285	CDS	null	ATP synthase protein I	78950	79285	+	
+3300049256 assembled Ga0508132_00027_79275_79592	CDS	null	F1F0 ATPase subunit 2	79275	79592	+	
+3300049256 assembled Ga0508132_00027_79549_80274	CDS	null	F-type H+-transporting ATPase subunit a	79549	80274	+	
+3300049256 assembled Ga0508132_00027_80308_80580	CDS	null	F-type H+-transporting ATPase subunit c	80308	80580	+	
+3300049256 assembled Ga0508132_00027_80583_81386	CDS	null	F-type H+-transporting ATPase subunit b	80583	81386	+	
+3300049256 assembled Ga0508132_00027_81383_82960	CDS	null	F-type H+-transporting ATPase subunit alpha	81383	82960	+	
+3300049256 assembled Ga0508132_00027_8139_9029	CDS	null	drug/metabolite transporter (DMT)-like permease	8139	9029	+	
+3300049256 assembled Ga0508132_00027_82957_83955	CDS	null	F-type H+-transporting ATPase subunit gamma	82957	83955	+	
+3300049256 assembled Ga0508132_00027_84022_84201	CDS	null	hypothetical protein	84022	84201	+	
+3300049256 assembled Ga0508132_00027_84347_85903	CDS	null	long-chain acyl-CoA synthetase	84347	85903	-	
+3300049256 assembled Ga0508132_00027_85821_86615	CDS	null	AcrR family transcriptional regulator	85821	86615	-	
+3300049256 assembled Ga0508132_00027_86704_87888	CDS	null	acetyl-CoA acetyltransferase	86704	87888	+	
+3300049256 assembled Ga0508132_00027_87899_88345	CDS	null	acyl dehydratase	87899	88345	+	
+3300049256 assembled Ga0508132_00027_88342_88764	CDS	null	acyl dehydratase	88342	88764	+	
+3300049256 assembled Ga0508132_00027_88790_89200	CDS	null	3-oxoacyl-[acyl-carrier protein] reductase	88790	89200	+	
+3300049256 assembled Ga0508132_00027_9036_9209	CDS	null	hypothetical protein	9036	9209	-	
+3300049256 assembled Ga0508132_00027_9357_9545	CDS	null	hypothetical protein	9357	9545	-	
+3300049256 assembled Ga0508132_00027_9745_10344	CDS	null	RimJ/RimL family protein N-acetyltransferase	9745	10344	-	

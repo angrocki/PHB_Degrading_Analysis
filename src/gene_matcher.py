@@ -2,9 +2,9 @@ import os
 import pandas as pd
 
 
-SEARCH_TERM = "poly(3-hydroxybutyrate)"
+SEARCH_TERM = "poly(3-hydroxybutyrate)depolymerase"
 DATA = "both"
-FILE_NAME = "poly(3-hydroxybutyrate)_scaffold_both"
+FILE_NAME = "poly(3-hydroxybutyrate)depolymerase_scaffold_both"
 # Create new data frame
 matched_genes = pd.DataFrame()
 missing_scaffolds = pd.DataFrame()

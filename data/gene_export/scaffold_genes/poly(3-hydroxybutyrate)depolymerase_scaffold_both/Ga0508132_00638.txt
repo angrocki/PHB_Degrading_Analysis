@@ -1,0 +1,11 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00638_1306_2352	CDS	null	poly(3-hydroxybutyrate) depolymerase	1306	2352	-	
+3300049256 assembled Ga0508132_00638_2352_4076	CDS	null	tetratricopeptide (TPR) repeat protein	2352	4076	-	
+3300049256 assembled Ga0508132_00638_4089_5495	CDS	null	hypothetical protein	4089	5495	+	
+3300049256 assembled Ga0508132_00638_5559_6623	CDS	null	glycosyltransferase involved in cell wall biosynthesis	5559	6623	+	
+3300049256 assembled Ga0508132_00638_6679_7071	CDS	null	uncharacterized MAPEG superfamily protein	6679	7071	+	
+3300049256 assembled Ga0508132_00638_716_1264	CDS	null	quercetin dioxygenase-like cupin family protein	716	1264	+	
+3300049256 assembled Ga0508132_00638_7372_8508	CDS	null	predicted PurR-regulated permease PerM	7372	8508	+	
+3300049256 assembled Ga0508132_00638_8518_9219	CDS	null	chromosomal replication initiation ATPase DnaA	8518	9219	+	
+3300049256 assembled Ga0508132_00638_9515_11002	CDS	null	polyphosphate kinase	9515	11002	+	
+3300049256 assembled Ga0508132_00638_9_719	CDS	null	ribulose-bisphosphate carboxylase large chain	9	719	+	

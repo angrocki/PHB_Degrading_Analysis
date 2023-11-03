@@ -1,0 +1,23 @@
+Gene ID	Locus Type	Locus Tag	Gene Product Name	Start Coord	End Coord	Strand	
+3300049256 assembled Ga0508132_00294_10660_11325	CDS	null	glyoxylase-like metal-dependent hydrolase (beta-lactamase superfamily II)	10660	11325	-	
+3300049256 assembled Ga0508132_00294_11417_12535	CDS	null	uncharacterized protein YegL	11417	12535	-	
+3300049256 assembled Ga0508132_00294_12690_13172	CDS	null	hypothetical protein	12690	13172	+	
+3300049256 assembled Ga0508132_00294_13305_13859	CDS	null	two-component system response regulator RegA	13305	13859	-	
+3300049256 assembled Ga0508132_00294_13951_15273	CDS	null	two-component system sensor histidine kinase RegB	13951	15273	-	
+3300049256 assembled Ga0508132_00294_1516_2946	CDS	null	malonyl-CoA decarboxylase	1516	2946	-	
+3300049256 assembled Ga0508132_00294_15238_16179	CDS	null	ABC-2 type transport system ATP-binding protein	15238	16179	+	
+3300049256 assembled Ga0508132_00294_16185_17006	CDS	null	ABC-2 type transport system permease protein	16185	17006	+	
+3300049256 assembled Ga0508132_00294_17145_18473	CDS	null	poly(3-hydroxybutyrate) depolymerase	17145	18473	+	
+3300049256 assembled Ga0508132_00294_18813_19562	CDS	null	predicted metal-dependent hydrolase	18813	19562	+	
+3300049256 assembled Ga0508132_00294_3112_3717	CDS	null	PAS domain-containing protein	3112	3717	-	
+3300049256 assembled Ga0508132_00294_3797_5161	CDS	null	2-methylcitrate dehydratase PrpD	3797	5161	-	
+3300049256 assembled Ga0508132_00294_3_380	CDS	null	phosphoribosylaminoimidazole-succinocarboxamide synthase	3	380	-	
+3300049256 assembled Ga0508132_00294_451_1368	CDS	null	redox-sensitive bicupin YhaK (pirin superfamily)	451	1368	-	
+3300049256 assembled Ga0508132_00294_5287_6444	CDS	null	uncharacterized membrane protein YccC	5287	6444	+	
+3300049256 assembled Ga0508132_00294_6446_6907	CDS	null	uncharacterized membrane protein	6446	6907	-	
+3300049256 assembled Ga0508132_00294_6900_7067	CDS	null	hypothetical protein	6900	7067	-	
+3300049256 assembled Ga0508132_00294_7168_7458	CDS	null	hypothetical protein	7168	7458	-	
+3300049256 assembled Ga0508132_00294_7373_7480	CDS	null	hypothetical protein	7373	7480	+	
+3300049256 assembled Ga0508132_00294_7654_8838	CDS	null	poly(hydroxyalkanoate) depolymerase family esterase	7654	8838	+	
+3300049256 assembled Ga0508132_00294_8957_9376	CDS	null	hypothetical protein	8957	9376	+	
+3300049256 assembled Ga0508132_00294_9440_10417	CDS	null	AraC-like DNA-binding protein	9440	10417	-	
